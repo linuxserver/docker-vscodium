@@ -6,6 +6,7 @@ external_type: github_stable
 release_type: stable
 release_tag: latest
 ls_branch: master
+build_armhf: false
 repo_vars:
   - EXT_GIT_BRANCH = 'master'
   - EXT_USER = 'VSCodium'
@@ -18,7 +19,7 @@ repo_vars:
   - DEV_DOCKERHUB_IMAGE = 'lsiodev/vscodium'
   - PR_DOCKERHUB_IMAGE = 'lspipepr/vscodium'
   - DIST_IMAGE = 'ubuntu'
-  - MULTIARCH = 'false'
+  - MULTIARCH = 'true'
   - CI = 'true'
   - CI_WEB = 'true'
   - CI_PORT = '3000'
