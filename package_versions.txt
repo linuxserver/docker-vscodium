@@ -26,7 +26,7 @@ NAME                                                                          VE
 @types/cors                                                                   2.8.13                                             npm        
 @types/node                                                                   18.15.11                                           npm        
 PyGObject                                                                     3.38.0                                             python     
-VSCodium                                                                      1.77.0                                             npm        
+VSCodium                                                                      1.77.1                                             npm        
 abbrev                                                                        1.1.1                                              npm        
 abbrev                                                                        2.0.0                                              npm        
 abort-controller                                                              3.0.0                                              npm        
@@ -82,7 +82,7 @@ clojure                                                                       1.
 clone                                                                         1.0.4                                              npm        
 cloud.google.com/go/compute/metadata                                          v0.2.1                                             go-module  
 cmd-shim                                                                      6.0.1                                              npm        
-codium                                                                        1.77.0.23095                                       deb        
+codium                                                                        1.77.1.23095                                       deb        
 coffeescript                                                                  1.0.0                                              npm        
 color-convert                                                                 2.0.1                                              npm        
 color-name                                                                    1.1.4                                              npm        
@@ -522,7 +522,7 @@ jake                                                                          10
 java                                                                          1.0.0                                              npm        
 javascript                                                                    1.0.0                                              npm        
 jq                                                                            1.6-2.1                                            deb        
-js-debug                                                                      1.77.1                                             npm        
+js-debug                                                                      1.77.2                                             npm        
 js-debug-companion                                                            1.0.18                                             npm        
 json                                                                          1.0.0                                              npm        
 json-language-features                                                        1.0.0                                              npm        
