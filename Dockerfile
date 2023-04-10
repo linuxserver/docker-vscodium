@@ -7,6 +7,9 @@ ARG VERSION
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="thelamer"
 
+# title
+ENV TITLE=VSCodium
+
 RUN \
   echo "**** install packages ****" && \
   apt-get update && \
