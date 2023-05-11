@@ -82,7 +82,7 @@ clojure                                                                       1.
 clone                                                                         1.0.4                                              npm        
 cloud.google.com/go/compute/metadata                                          v0.2.1                                             go-module  
 cmd-shim                                                                      6.0.1                                              npm        
-codium                                                                        1.78.1.23130                                       deb        
+codium                                                                        1.78.1.23131                                       deb        
 coffeescript                                                                  1.0.0                                              npm        
 color-convert                                                                 2.0.1                                              npm        
 color-name                                                                    1.1.4                                              npm        
