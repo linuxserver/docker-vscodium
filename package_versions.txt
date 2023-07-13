@@ -26,7 +26,7 @@ NAME                                                                          VE
 @types/cors                                                                   2.8.13                                             npm        
 @types/node                                                                   20.4.1                                             npm        
 PyGObject                                                                     3.38.0                                             python     
-VSCodium                                                                      1.80.0                                             npm        
+VSCodium                                                                      1.80.1                                             npm        
 abbrev                                                                        1.1.1                                              npm        
 abbrev                                                                        2.0.0                                              npm        
 abort-controller                                                              3.0.0                                              npm        
@@ -81,7 +81,7 @@ cli-table3                                                                    0.
 clojure                                                                       1.0.0                                              npm        
 clone                                                                         1.0.4                                              npm        
 cmd-shim                                                                      6.0.1                                              npm        
-codium                                                                        1.80.0.23188                                       deb        
+codium                                                                        1.80.1.23194                                       deb        
 coffeescript                                                                  1.0.0                                              npm        
 color-convert                                                                 2.0.1                                              npm        
 color-name                                                                    1.1.4                                              npm        
@@ -1191,7 +1191,7 @@ treeverse                                                                     3.
 tuf-js                                                                        1.0.0                                              npm        
 type-is                                                                       1.6.18                                             npm        
 typescript                                                                    1.0.0                                              npm        
-typescript                                                                    5.1.3                                              npm        
+typescript                                                                    5.1.6                                              npm        
 typescript-language-features                                                  1.0.0                                              npm        
 tzdata                                                                        2021a-1+deb11u10                                   deb        
 ucf                                                                           3.0043                                             deb        
