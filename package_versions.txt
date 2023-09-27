@@ -29,7 +29,7 @@ NAME                                                                          VE
 @tufjs/models                                                                 1.0.4                                               npm        
 @types/cookie                                                                 0.4.1                                               npm        
 @types/cors                                                                   2.8.14                                              npm        
-@types/node                                                                   20.6.2                                              npm        
+@types/node                                                                   20.6.3                                              npm        
 PyGObject                                                                     3.38.0                                              python     
 VSCodium                                                                      1.82.2                                              npm        
 abbrev                                                                        1.1.1                                               npm        
@@ -103,7 +103,7 @@ common-ancestor-path                                                          1.
 concat-map                                                                    0.0.1                                               npm        
 configuration-editing                                                         1.0.0                                               npm        
 console-control-strings                                                       1.1.0                                               npm        
-containerd.io                                                                 1.6.22-1                                            deb        
+containerd.io                                                                 1.6.24-1                                            deb        
 content-disposition                                                           0.5.4                                               npm        
 content-type                                                                  1.0.5                                               npm        
 cookie                                                                        0.4.2                                               npm        
@@ -221,6 +221,7 @@ github-authentication                                                         0.
 github.com/AlecAivazis/survey/v2                                              v2.3.7                                              go-module  
 github.com/Graylog2/go-gelf                                                   v0.0.0-20191017102106-1550ee647df0                  go-module  
 github.com/Masterminds/semver/v3                                              v3.2.1                                              go-module  
+github.com/Microsoft/hcsshim                                                  v0.9.10                                             go-module  
 github.com/Microsoft/hcsshim                                                  v0.9.8                                              go-module  
 github.com/RackSec/srslog                                                     v0.0.0-20180709174129-a4725f04ec91                  go-module  
 github.com/adrg/xdg                                                           v0.4.0                                              go-module  
@@ -277,6 +278,7 @@ github.com/containerd/cgroups                                                 v1
 github.com/containerd/cgroups/v3                                              v3.0.2                                              go-module  
 github.com/containerd/console                                                 v1.0.3                                              go-module  
 github.com/containerd/containerd                                              v1.6.22                                             go-module  
+github.com/containerd/containerd                                              v1.6.24                                             go-module  
 github.com/containerd/containerd                                              v1.7.2                                              go-module  
 github.com/containerd/containerd                                              v1.7.3                                              go-module  
 github.com/containerd/continuity                                              v0.3.0                                              go-module  
@@ -437,7 +439,7 @@ github.com/opencontainers/go-digest                                           v1
 github.com/opencontainers/image-spec                                          v1.1.0-rc2.0.20221005185240-3a7f492d3f1b            go-module  
 github.com/opencontainers/image-spec                                          v1.1.0-rc3                                          go-module  
 github.com/opencontainers/image-spec                                          v1.1.0-rc4                                          go-module  
-github.com/opencontainers/runc                                                v0.0.0-20230719051532-82f18fe0e44a                  go-module  
+github.com/opencontainers/runc                                                v0.0.0-20230810173218-ccaecfcbc907                  go-module  
 github.com/opencontainers/runc                                                v1.1.5                                              go-module  
 github.com/opencontainers/runc                                                v1.1.7                                              go-module  
 github.com/opencontainers/runtime-spec                                        v1.0.3-0.20210326190908-1c3f411f0417                go-module  
@@ -568,7 +570,6 @@ golang.org/x/oauth2                                                           v0
 golang.org/x/oauth2                                                           v0.1.0                                              go-module  
 golang.org/x/oauth2                                                           v0.5.0                                              go-module  
 golang.org/x/oauth2                                                           v0.7.0                                              go-module  
-golang.org/x/sync                                                             v0.0.0-20210220032951-036812b2e83c                  go-module  
 golang.org/x/sync                                                             v0.1.0                                              go-module  
 golang.org/x/sync                                                             v0.2.0                                              go-module  
 golang.org/x/sync                                                             v0.3.0                                              go-module  
@@ -801,7 +802,7 @@ libffi7                                                                       3.
 libfftw3-double3                                                              3.3.8-2                                             deb        
 libfido2-1                                                                    1.6.0-2                                             deb        
 libfile-sharedir-perl                                                         1.118-1                                             deb        
-libflac8                                                                      1.3.3-2+deb11u1                                     deb        
+libflac8                                                                      1.3.3-2+deb11u2                                     deb        
 libflite1                                                                     2.2-2                                               deb        
 libfontconfig1                                                                2.13.1-4.2                                          deb        
 libfontembed1                                                                 1.28.7-1+deb11u2                                    deb        
@@ -1080,7 +1081,7 @@ libwayland-client0                                                            1.
 libwayland-cursor0                                                            1.18.0-2~exp1.1                                     deb        
 libwayland-egl1                                                               1.18.0-2~exp1.1                                     deb        
 libwayland-server0                                                            1.18.0-2~exp1.1                                     deb        
-libwebp6                                                                      0.6.1-2.1+deb11u1                                   deb        
+libwebp6                                                                      0.6.1-2.1+deb11u2                                   deb        
 libwebpdemux2                                                                 0.6.1-2.1+deb11u2                                   deb        
 libwebpmux3                                                                   0.6.1-2.1+deb11u2                                   deb        
 libwebrtc-audio-processing1                                                   0.3-1+b1                                            deb        
