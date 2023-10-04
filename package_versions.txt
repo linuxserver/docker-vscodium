@@ -31,7 +31,7 @@ NAME                                                                          VE
 @types/cors                                                                   2.8.14                                              npm        
 @types/node                                                                   20.8.0                                              npm        
 PyGObject                                                                     3.38.0                                              python     
-VSCodium                                                                      1.82.2                                              npm        
+VSCodium                                                                      1.82.3                                              npm        
 abbrev                                                                        1.1.1                                               npm        
 abbrev                                                                        2.0.0                                               npm        
 abort-controller                                                              3.0.0                                               npm        
@@ -93,7 +93,7 @@ cloud.google.com/go/compute                                                   v1
 cloud.google.com/go/logging                                                   v1.4.2                                              go-module  
 cmd-shim                                                                      6.0.1                                               npm        
 code.cloudfoundry.org/clock                                                   v1.0.0                                              go-module  
-codium                                                                        1.82.2.23257                                        deb        
+codium                                                                        1.82.3.23277                                        deb        
 coffeescript                                                                  1.0.0                                               npm        
 color-convert                                                                 2.0.1                                               npm        
 color-name                                                                    1.1.4                                               npm        
