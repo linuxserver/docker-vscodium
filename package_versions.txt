@@ -1353,6 +1353,9 @@ ssl-cert                                                                      1.
 ssri                                                                          10.0.4                                              npm        
 ssri                                                                          9.0.1                                               npm        
 statuses                                                                      2.0.1                                               npm        
+stdlib                                                                        go1.20.6                                            go-module  
+stdlib                                                                        go1.20.7                                            go-module  
+stdlib                                                                        go1.20.8                                            go-module  
 string-width                                                                  4.2.3                                               npm        
 string-width                                                                  5.1.2                                               npm        
 string_decoder                                                                1.1.1                                               npm        
