@@ -29,9 +29,9 @@ NAME                                                                          VE
 @tufjs/models                                                                 1.0.4                                               npm        
 @types/cookie                                                                 0.4.1                                               npm        
 @types/cors                                                                   2.8.17                                              npm        
-@types/node                                                                   20.10.2                                             npm        
+@types/node                                                                   20.10.4                                             npm        
 PyGObject                                                                     3.38.0                                              python     
-VSCodium                                                                      1.84.2                                              npm        
+VSCodium                                                                      1.85.0                                              npm        
 abbrev                                                                        1.1.1                                               npm        
 abbrev                                                                        2.0.0                                               npm        
 abort-controller                                                              3.0.0                                               npm        
@@ -93,7 +93,7 @@ cloud.google.com/go/compute                                                   v1
 cloud.google.com/go/logging                                                   v1.4.2                                              go-module  
 cmd-shim                                                                      6.0.1                                               npm        
 code.cloudfoundry.org/clock                                                   v1.0.0                                              go-module  
-codium                                                                        1.84.2.23319                                        deb        
+codium                                                                        1.85.0.23343                                        deb        
 coffeescript                                                                  1.0.0                                               npm        
 color-convert                                                                 2.0.1                                               npm        
 color-name                                                                    1.1.4                                               npm        
@@ -679,7 +679,7 @@ jake                                                                          10
 java                                                                          1.0.0                                               npm        
 javascript                                                                    1.0.0                                               npm        
 jq                                                                            1.6-2.1                                             deb        
-js-debug                                                                      1.84.0                                              npm        
+js-debug                                                                      1.85.0                                              npm        
 js-debug-companion                                                            1.1.2                                               npm        
 json                                                                          1.0.0                                               npm        
 json-language-features                                                        1.0.0                                               npm        
@@ -932,7 +932,7 @@ libnetfilter-conntrack3                                                       1.
 libnettle8                                                                    3.7.3-1                                             deb        
 libnfnetlink0                                                                 1.0.1-3+b1                                          deb        
 libnftnl11                                                                    1.1.9-1                                             deb        
-libnghttp2-14                                                                 1.43.0-1                                            deb        
+libnghttp2-14                                                                 1.43.0-1+deb11u1                                    deb        
 libnginx-mod-http-geoip                                                       1.18.0-6.1+deb11u3                                  deb        
 libnginx-mod-http-image-filter                                                1.18.0-6.1+deb11u3                                  deb        
 libnginx-mod-http-xslt-filter                                                 1.18.0-6.1+deb11u3                                  deb        
@@ -1416,7 +1416,7 @@ tuf-js                                                                        1.
 tunnel-forwarding                                                             1.0.0                                               npm        
 type-is                                                                       1.6.18                                              npm        
 typescript                                                                    1.0.0                                               npm        
-typescript                                                                    5.2.2                                               npm        
+typescript                                                                    5.3.2                                               npm        
 typescript-language-features                                                  1.0.0                                               npm        
 tzdata                                                                        2021a-1+deb11u10                                    deb        
 ucf                                                                           3.0043                                              deb        
@@ -1436,9 +1436,9 @@ vary                                                                          1.
 vb                                                                            1.0.0                                               npm        
 vscode-css-languageserver                                                     1.0.0                                               npm        
 vscode-html-languageserver                                                    1.0.0                                               npm        
-vscode-js-profile-table                                                       1.0.3                                               npm        
+vscode-js-profile-table                                                       1.0.8                                               npm        
 vscode-json-languageserver                                                    1.3.4                                               npm        
-vscode-markdown-languageserver                                                0.4.0-alpha.7                                       npm        
+vscode-markdown-languageserver                                                0.4.0-alpha.8                                       npm        
 vscode-theme-seti                                                             1.0.0                                               npm        
 walk-up-path                                                                  3.0.1                                               npm        
 wcwidth                                                                       1.0.1                                               npm        
