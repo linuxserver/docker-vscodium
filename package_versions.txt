@@ -79,8 +79,8 @@ cacache                                                                       17
 call-bind                                                                     1.0.5                                               npm        
 chalk                                                                         4.1.2                                               npm        
 chownr                                                                        2.0.0                                               npm        
-chromium                                                                      119.0.6045.199-1~deb11u1                            deb        
-chromium-common                                                               119.0.6045.199-1~deb11u1                            deb        
+chromium                                                                      120.0.6099.71-1~deb11u1                             deb        
+chromium-common                                                               120.0.6099.71-1~deb11u1                             deb        
 ci-info                                                                       3.8.0                                               npm        
 cidr-regex                                                                    3.1.1                                               npm        
 clean-stack                                                                   2.2.0                                               npm        
