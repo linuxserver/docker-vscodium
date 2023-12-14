@@ -31,7 +31,7 @@ NAME                                                                          VE
 @types/cors                                                                   2.8.17                                              npm        
 @types/node                                                                   20.10.4                                             npm        
 PyGObject                                                                     3.38.0                                              python     
-VSCodium                                                                      1.85.0                                              npm        
+VSCodium                                                                      1.85.1                                              npm        
 abbrev                                                                        1.1.1                                               npm        
 abbrev                                                                        2.0.0                                               npm        
 abort-controller                                                              3.0.0                                               npm        
@@ -79,8 +79,8 @@ cacache                                                                       17
 call-bind                                                                     1.0.5                                               npm        
 chalk                                                                         4.1.2                                               npm        
 chownr                                                                        2.0.0                                               npm        
-chromium                                                                      120.0.6099.71-1~deb11u1                             deb        
-chromium-common                                                               120.0.6099.71-1~deb11u1                             deb        
+chromium                                                                      120.0.6099.109-1~deb11u1                            deb        
+chromium-common                                                               120.0.6099.109-1~deb11u1                            deb        
 ci-info                                                                       3.8.0                                               npm        
 cidr-regex                                                                    3.1.1                                               npm        
 clean-stack                                                                   2.2.0                                               npm        
@@ -93,7 +93,7 @@ cloud.google.com/go/compute                                                   v1
 cloud.google.com/go/logging                                                   v1.4.2                                              go-module  
 cmd-shim                                                                      6.0.1                                               npm        
 code.cloudfoundry.org/clock                                                   v1.0.0                                              go-module  
-codium                                                                        1.85.0.23343                                        deb        
+codium                                                                        1.85.1.23348                                        deb        
 coffeescript                                                                  1.0.0                                               npm        
 color-convert                                                                 2.0.1                                               npm        
 color-name                                                                    1.1.4                                               npm        
