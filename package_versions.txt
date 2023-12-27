@@ -29,7 +29,7 @@ NAME                                                                          VE
 @tufjs/models                                                                 1.0.4                                               npm        
 @types/cookie                                                                 0.4.1                                               npm        
 @types/cors                                                                   2.8.17                                              npm        
-@types/node                                                                   20.10.4                                             npm        
+@types/node                                                                   20.10.5                                             npm        
 PyGObject                                                                     3.38.0                                              python     
 VSCodium                                                                      1.85.1                                              npm        
 abbrev                                                                        1.1.1                                               npm        
@@ -79,8 +79,8 @@ cacache                                                                       17
 call-bind                                                                     1.0.5                                               npm        
 chalk                                                                         4.1.2                                               npm        
 chownr                                                                        2.0.0                                               npm        
-chromium                                                                      120.0.6099.109-1~deb11u1                            deb        
-chromium-common                                                               120.0.6099.109-1~deb11u1                            deb        
+chromium                                                                      120.0.6099.129-1~deb11u1                            deb        
+chromium-common                                                               120.0.6099.129-1~deb11u1                            deb        
 ci-info                                                                       3.8.0                                               npm        
 cidr-regex                                                                    3.1.1                                               npm        
 clean-stack                                                                   2.2.0                                               npm        
@@ -1262,7 +1262,7 @@ ocl-icd-libopencl1                                                            2.
 on-finished                                                                   2.4.1                                               npm        
 once                                                                          1.4.0                                               npm        
 openbox                                                                       3.6.1-9+deb11u1                                     deb        
-openssh-client                                                                1:8.4p1-5+deb11u2                                   deb        
+openssh-client                                                                1:8.4p1-5+deb11u3                                   deb        
 openssl                                                                       1.1.1w-0+deb11u1                                    deb        
 p-map                                                                         4.0.0                                               npm        
 p11-kit                                                                       0.23.22-1                                           deb        
@@ -1468,8 +1468,8 @@ xfonts-encodings                                                              1:
 xfonts-utils                                                                  1:7.7+6                                             deb        
 xkb-data                                                                      2.29-2                                              deb        
 xml                                                                           1.0.0                                               npm        
-xserver-common                                                                2:1.20.11-1+deb11u9                                 deb        
-xserver-xorg-core                                                             2:1.20.11-1+deb11u9                                 deb        
+xserver-common                                                                2:1.20.11-1+deb11u10                                deb        
+xserver-xorg-core                                                             2:1.20.11-1+deb11u10                                deb        
 xserver-xorg-video-amdgpu                                                     19.1.0-2                                            deb        
 xserver-xorg-video-ati                                                        1:19.1.0-2                                          deb        
 xserver-xorg-video-intel                                                      2:2.99.917+git20200714-1+deb11u1                    deb        
