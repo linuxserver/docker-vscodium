@@ -79,8 +79,8 @@ cacache                                                                       17
 call-bind                                                                     1.0.5                                               npm        
 chalk                                                                         4.1.2                                               npm        
 chownr                                                                        2.0.0                                               npm        
-chromium                                                                      120.0.6099.129-1~deb11u1                            deb        
-chromium-common                                                               120.0.6099.129-1~deb11u1                            deb        
+chromium                                                                      120.0.6099.199-1~deb11u1                            deb        
+chromium-common                                                               120.0.6099.199-1~deb11u1                            deb        
 ci-info                                                                       3.8.0                                               npm        
 cidr-regex                                                                    3.1.1                                               npm        
 clean-stack                                                                   2.2.0                                               npm        
@@ -181,9 +181,9 @@ escape-html                                                                   1.
 etag                                                                          1.8.1                                               npm        
 event-target-shim                                                             5.0.1                                               npm        
 events                                                                        3.3.0                                               npm        
-exim4-base                                                                    4.94.2-7+deb11u1                                    deb        
-exim4-config                                                                  4.94.2-7+deb11u1                                    deb        
-exim4-daemon-light                                                            4.94.2-7+deb11u1                                    deb        
+exim4-base                                                                    4.94.2-7+deb11u2                                    deb        
+exim4-config                                                                  4.94.2-7+deb11u2                                    deb        
+exim4-daemon-light                                                            4.94.2-7+deb11u2                                    deb        
 exo-utils                                                                     4.16.0-1+deb11u1                                    deb        
 express                                                                       4.18.2                                              npm        
 extension-editing                                                             1.0.0                                               npm        
@@ -707,7 +707,7 @@ k8s.io/klog/v2                                                                v2
 k8s.io/kube-openapi                                                           v0.0.0-20221012153701-172d655c2280                  go-module  
 k8s.io/utils                                                                  v0.0.0-20210930125809-cb0fa318a74b                  go-module  
 k8s.io/utils                                                                  v0.0.0-20230220204549-a5ecb0141aa5                  go-module  
-kclient                                                                       0.3.6                                               npm        
+kclient                                                                       0.3.7                                               npm        
 keyboard-configuration                                                        1.205                                               deb        
 latex                                                                         1.0.0                                               npm        
 less                                                                          1.0.0                                               npm        
@@ -1367,7 +1367,7 @@ sigs.k8s.io/yaml                                                              v1
 sigstore                                                                      1.5.2                                               npm        
 simple-browser                                                                1.0.0                                               npm        
 smart-buffer                                                                  4.2.0                                               npm        
-socket.io                                                                     4.7.2                                               npm        
+socket.io                                                                     4.7.3                                               npm        
 socket.io-adapter                                                             2.5.2                                               npm        
 socket.io-parser                                                              4.2.4                                               npm        
 socks                                                                         2.7.1                                               npm        
