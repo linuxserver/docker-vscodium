@@ -29,7 +29,7 @@ NAME                                                                          VE
 @tufjs/models                                                                 1.0.4                                               npm        
 @types/cookie                                                                 0.4.1                                               npm        
 @types/cors                                                                   2.8.17                                              npm        
-@types/node                                                                   20.10.6                                             npm        
+@types/node                                                                   20.11.0                                             npm        
 PyGObject                                                                     3.38.0                                              python     
 VSCodium                                                                      1.85.1                                              npm        
 abbrev                                                                        1.1.1                                               npm        
@@ -79,8 +79,8 @@ cacache                                                                       17
 call-bind                                                                     1.0.5                                               npm        
 chalk                                                                         4.1.2                                               npm        
 chownr                                                                        2.0.0                                               npm        
-chromium                                                                      120.0.6099.199-1~deb11u1                            deb        
-chromium-common                                                               120.0.6099.199-1~deb11u1                            deb        
+chromium                                                                      120.0.6099.216-1~deb11u1                            deb        
+chromium-common                                                               120.0.6099.216-1~deb11u1                            deb        
 ci-info                                                                       3.8.0                                               npm        
 cidr-regex                                                                    3.1.1                                               npm        
 clean-stack                                                                   2.2.0                                               npm        
@@ -1367,7 +1367,7 @@ sigs.k8s.io/yaml                                                              v1
 sigstore                                                                      1.5.2                                               npm        
 simple-browser                                                                1.0.0                                               npm        
 smart-buffer                                                                  4.2.0                                               npm        
-socket.io                                                                     4.7.3                                               npm        
+socket.io                                                                     4.7.4                                               npm        
 socket.io-adapter                                                             2.5.2                                               npm        
 socket.io-parser                                                              4.2.4                                               npm        
 socks                                                                         2.7.1                                               npm        
