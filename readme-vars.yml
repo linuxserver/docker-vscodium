@@ -78,5 +78,6 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "06.01.24:", desc: "Rebase to Debian Bookworm." }
   - { date: "17.01.24:", desc: "Update wrapper scripts to cleanup and launch properly." }
   - { date: "02.04.23:", desc: "Initial release." }
