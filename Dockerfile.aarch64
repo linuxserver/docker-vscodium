@@ -11,10 +11,15 @@ LABEL maintainer="thelamer"
 ENV TITLE=VSCodium
 
 RUN \
+  echo "**** add icon ****" && \
+  curl -o \
+    /kclient/public/icon.png \
+    https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/vscodium-icon.png && \
   echo "**** install packages ****" && \
   apt-get update && \
   apt-get install --no-install-recommends -y \
     chromium \
+    chromium-l10n \
     git \
     gnome-keyring \
     ssh-askpass \
@@ -33,7 +38,6 @@ RUN \
   mv \
     /usr/bin/chromium \
     /usr/bin/chromium-real && \
-  sed -i 's|</applications>|  <application title="VSCodium" type="normal">\n    <maximized>yes</maximized>\n  </application>\n</applications>|' /etc/xdg/openbox/rc.xml && \
   echo "**** cleanup ****" && \
   apt-get autoclean && \
   rm -rf \
