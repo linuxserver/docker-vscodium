@@ -29,7 +29,7 @@ NAME                                                                          VE
 @tufjs/models                                                                 2.0.0                                        npm        
 @types/cookie                                                                 0.4.1                                        npm        
 @types/cors                                                                   2.8.17                                       npm        
-@types/node                                                                   20.11.19                                     npm        
+@types/node                                                                   20.11.20                                     npm        
 PyGObject                                                                     3.42.2                                       python     
 PyJWT                                                                         2.6.0                                        python     
 VSCodium                                                                      1.86.2                                       npm        
@@ -82,9 +82,9 @@ call-bind                                                                     1.
 chalk                                                                         4.1.2                                        npm        
 chalk                                                                         5.3.0                                        npm        
 chownr                                                                        2.0.0                                        npm        
-chromium                                                                      121.0.6167.160-1~deb12u1                     deb        
-chromium-common                                                               121.0.6167.160-1~deb12u1                     deb        
-chromium-l10n                                                                 121.0.6167.160-1~deb12u1                     deb        
+chromium                                                                      122.0.6261.57-1~deb12u1                      deb        
+chromium-common                                                               122.0.6261.57-1~deb12u1                      deb        
+chromium-l10n                                                                 122.0.6261.57-1~deb12u1                      deb        
 ci-info                                                                       4.0.0                                        npm        
 cidr-regex                                                                    4.0.3                                        npm        
 clean-stack                                                                   2.2.0                                        npm        
@@ -97,7 +97,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.1                                       go-module  
 cmd-shim                                                                      6.0.2                                        npm        
 code.cloudfoundry.org/clock                                                   v1.1.0                                       go-module  
-codium                                                                        1.86.2.24054                                 deb        
+codium                                                                        1.86.2.24057                                 deb        
 coffeescript                                                                  1.0.0                                        npm        
 color-convert                                                                 2.0.1                                        npm        
 color-name                                                                    1.1.4                                        npm        
@@ -637,7 +637,7 @@ gzip                                                                          1.
 handlebars                                                                    1.0.0                                        npm        
 has-flag                                                                      4.0.0                                        npm        
 has-property-descriptors                                                      1.0.2                                        npm        
-has-proto                                                                     1.0.1                                        npm        
+has-proto                                                                     1.0.3                                        npm        
 has-symbols                                                                   1.0.3                                        npm        
 has-unicode                                                                   2.0.1                                        npm        
 hasown                                                                        2.0.0                                        npm        
@@ -1388,7 +1388,7 @@ simple-browser                                                                1.
 six                                                                           1.16.0                                       python     
 smart-buffer                                                                  4.2.0                                        npm        
 socket.io                                                                     4.7.4                                        npm        
-socket.io-adapter                                                             2.5.2                                        npm        
+socket.io-adapter                                                             2.5.4                                        npm        
 socket.io-parser                                                              4.2.4                                        npm        
 socks                                                                         2.7.1                                        npm        
 socks-proxy-agent                                                             8.0.2                                        npm        
