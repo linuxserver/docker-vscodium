@@ -34,7 +34,7 @@ NAME                                                                          VE
 @types/node                                                                   20.12.2                                             npm                          
 PyGObject                                                                     3.42.2                                              python                       
 PyJWT                                                                         2.6.0                                               python                       
-VSCodium                                                                      1.87.2                                              npm                          
+VSCodium                                                                      1.88.0                                              npm                          
 abbrev                                                                        2.0.0                                               npm                          
 accepts                                                                       1.3.8                                               npm                          
 adduser                                                                       3.134                                               deb                          
@@ -81,9 +81,9 @@ call-bind                                                                     1.
 chalk                                                                         4.1.2                                               npm                          
 chalk                                                                         5.3.0                                               npm                          
 chownr                                                                        2.0.0                                               npm                          
-chromium                                                                      123.0.6312.86-1~deb12u1                             deb                          
-chromium-common                                                               123.0.6312.86-1~deb12u1                             deb                          
-chromium-l10n                                                                 123.0.6312.86-1~deb12u1                             deb                          
+chromium                                                                      123.0.6312.105-1~deb12u1                            deb                          
+chromium-common                                                               123.0.6312.105-1~deb12u1                            deb                          
+chromium-l10n                                                                 123.0.6312.105-1~deb12u1                            deb                          
 ci-info                                                                       4.0.0                                               npm                          
 cidr-regex                                                                    4.0.3                                               npm                          
 clean-stack                                                                   2.2.0                                               npm                          
@@ -96,7 +96,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.2                                              go-module                    
 cmd-shim                                                                      6.0.2                                               npm                          
 code.cloudfoundry.org/clock                                                   v1.1.0                                              go-module                    
-codium                                                                        1.87.2.24072                                        deb                          
+codium                                                                        1.88.0.24096                                        deb                          
 coffeescript                                                                  1.0.0                                               npm                          
 color-convert                                                                 2.0.1                                               npm        (+1 duplicate)    
 color-name                                                                    1.1.4                                               npm        (+1 duplicate)    
@@ -690,7 +690,7 @@ jake                                                                          10
 java                                                                          1.0.0                                               npm                          
 javascript                                                                    1.0.0                                               npm                          
 jq                                                                            1.6-2.1                                             deb                          
-js-debug                                                                      1.87.0                                              npm                          
+js-debug                                                                      1.88.0                                              npm                          
 js-debug-companion                                                            1.1.2                                               npm                          
 jsbn                                                                          1.1.0                                               npm                          
 json                                                                          1.0.0                                               npm                          
@@ -1454,7 +1454,7 @@ tuf-js                                                                        2.
 tunnel-forwarding                                                             1.0.0                                               npm                          
 type-is                                                                       1.6.18                                              npm                          
 typescript                                                                    1.0.0                                               npm                          
-typescript                                                                    5.3.2                                               npm                          
+typescript                                                                    5.4.3                                               npm                          
 typescript-language-features                                                  1.0.0                                               npm                          
 tzdata                                                                        2024a-0+deb12u1                                     deb                          
 ucf                                                                           3.0043+nmu1                                         deb                          
