@@ -34,7 +34,7 @@ NAME                                                                          VE
 @types/node                                                                   20.12.5                                             npm                          
 PyGObject                                                                     3.42.2                                              python                       
 PyJWT                                                                         2.6.0                                               python                       
-VSCodium                                                                      1.88.0                                              npm                          
+VSCodium                                                                      1.88.1                                              npm                          
 abbrev                                                                        2.0.0                                               npm                          
 accepts                                                                       1.3.8                                               npm                          
 adduser                                                                       3.134                                               deb                          
@@ -96,7 +96,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.2                                              go-module                    
 cmd-shim                                                                      6.0.2                                               npm                          
 code.cloudfoundry.org/clock                                                   v1.1.0                                              go-module                    
-codium                                                                        1.88.0.24096                                        deb                          
+codium                                                                        1.88.1.24102                                        deb                          
 coffeescript                                                                  1.0.0                                               npm                          
 color-convert                                                                 2.0.1                                               npm        (+1 duplicate)    
 color-name                                                                    1.1.4                                               npm        (+1 duplicate)    
@@ -1454,7 +1454,7 @@ tuf-js                                                                        2.
 tunnel-forwarding                                                             1.0.0                                               npm                          
 type-is                                                                       1.6.18                                              npm                          
 typescript                                                                    1.0.0                                               npm                          
-typescript                                                                    5.4.3                                               npm                          
+typescript                                                                    5.4.5                                               npm                          
 typescript-language-features                                                  1.0.0                                               npm                          
 tzdata                                                                        2024a-0+deb12u1                                     deb                          
 ucf                                                                           3.0043+nmu1                                         deb                          
