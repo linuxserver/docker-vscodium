@@ -33,7 +33,7 @@ NAME                                                                          VE
 @types/node                                                                   20.13.0                                             npm                         
 PyGObject                                                                     3.42.2                                              python                      
 PyJWT                                                                         2.6.0                                               python                      
-VSCodium                                                                      1.89.1                                              npm                         
+VSCodium                                                                      1.90.0                                              npm                         
 abbrev                                                                        2.0.0                                               npm                         
 accepts                                                                       1.3.8                                               npm                         
 adduser                                                                       3.134                                               deb                         
@@ -92,7 +92,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.2                                              go-module                   
 cmd-shim                                                                      6.0.2                                               npm                         
 code.cloudfoundry.org/clock                                                   v1.1.0                                              go-module                   
-codium                                                                        1.89.1.24130                                        deb                         
+codium                                                                        1.90.0.24158                                        deb                         
 coffeescript                                                                  1.0.0                                               npm                         
 color-convert                                                                 2.0.1                                               npm        (+1 duplicate)   
 color-name                                                                    1.1.4                                               npm        (+1 duplicate)   
@@ -643,7 +643,7 @@ jake                                                                          10
 java                                                                          1.0.0                                               npm                         
 javascript                                                                    1.0.0                                               npm                         
 jq                                                                            1.6-2.1                                             deb                         
-js-debug                                                                      1.89.0                                              npm                         
+js-debug                                                                      1.90.0                                              npm                         
 js-debug-companion                                                            1.1.2                                               npm                         
 jsbn                                                                          1.1.0                                               npm                         
 json                                                                          1.0.0                                               npm                         
