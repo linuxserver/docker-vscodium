@@ -30,10 +30,10 @@ NAME                                                                          VE
 @tufjs/models                                                                 2.0.0                                   npm                          
 @types/cookie                                                                 0.4.1                                   npm                          
 @types/cors                                                                   2.8.17                                  npm                          
-@types/node                                                                   20.14.9                                 npm                          
+@types/node                                                                   20.14.10                                npm                          
 PyGObject                                                                     3.42.2                                  python                       
 PyJWT                                                                         2.6.0                                   python                       
-VSCodium                                                                      1.90.2                                  npm                          
+VSCodium                                                                      1.91.0                                  npm                          
 abbrev                                                                        2.0.0                                   npm                          
 accepts                                                                       1.3.8                                   npm                          
 adduser                                                                       3.134                                   deb                          
@@ -53,10 +53,10 @@ array-flatten                                                                 1.
 async                                                                         3.2.5                                   npm                          
 at-spi2-common                                                                2.46.0-5                                deb                          
 balanced-match                                                                1.0.2                                   npm        (+1 duplicate)    
-base-files                                                                    12.4+deb12u5                            deb                          
+base-files                                                                    12.4+deb12u6                            deb                          
 base-passwd                                                                   3.6.1                                   deb                          
 base64id                                                                      2.0.0                                   npm                          
-bash                                                                          5.2.15-2+b2                             deb                          
+bash                                                                          5.2.15-2+b7                             deb                          
 bat                                                                           1.0.0                                   npm                          
 bc                                                                            1.07.1-3+b1                             deb                          
 bin-links                                                                     4.0.3                                   npm                          
@@ -92,7 +92,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.2                                  go-module                    
 cmd-shim                                                                      6.0.2                                   npm                          
 code.cloudfoundry.org/clock                                                   v1.1.0                                  go-module                    
-codium                                                                        1.90.2.24171                            deb                          
+codium                                                                        1.91.0.24190                            deb                          
 coffeescript                                                                  1.0.0                                   npm                          
 color-convert                                                                 2.0.1                                   npm        (+1 duplicate)    
 color-name                                                                    1.1.4                                   npm        (+1 duplicate)    
@@ -163,8 +163,8 @@ distro-info-data                                                              0.
 dmsetup                                                                       2:1.02.185-2                            deb                          
 docker                                                                        1.0.0                                   npm                          
 docker-buildx-plugin                                                          0.15.1-1~debian.12~bookworm             deb                          
-docker-ce                                                                     5:27.0.2-1~debian.12~bookworm           deb                          
-docker-ce-cli                                                                 5:27.0.2-1~debian.12~bookworm           deb                          
+docker-ce                                                                     5:27.0.3-1~debian.12~bookworm           deb                          
+docker-ce-cli                                                                 5:27.0.3-1~debian.12~bookworm           deb                          
 docker-compose-plugin                                                         2.28.1-1~debian.12~bookworm             deb                          
 dpkg                                                                          1.21.22                                 deb                          
 e2fsprogs                                                                     1.47.0-2                                deb                          
@@ -309,13 +309,13 @@ github.com/docker/buildx                                                      v0
 github.com/docker/cli                                                         v26.1.4+incompatible                    go-module                    
 github.com/docker/cli                                                         v27.0.1-rc.1+incompatible               go-module                    
 github.com/docker/cli-docs-tool                                               v0.7.0                                  go-module                    
-github.com/docker/cli/cmd/docker                                              v27.0.2                                 go-module                    
+github.com/docker/cli/cmd/docker                                              v27.0.3                                 go-module                    
 github.com/docker/compose/v2                                                  v2.28.1                                 go-module                    
 github.com/docker/distribution                                                v2.8.2+incompatible                     go-module                    
 github.com/docker/distribution                                                v2.8.3+incompatible                     go-module  (+1 duplicate)    
 github.com/docker/docker                                                      v26.1.4+incompatible                    go-module                    
 github.com/docker/docker                                                      v27.0.1-rc.1+incompatible               go-module                    
-github.com/docker/docker                                                      v27.0.2                                 go-module  (+1 duplicate)    
+github.com/docker/docker                                                      v27.0.3                                 go-module  (+1 duplicate)    
 github.com/docker/docker-credential-helpers                                   v0.8.0                                  go-module  (+1 duplicate)    
 github.com/docker/go                                                          v1.5.1-1.0.20160303222718-d30aec9fd63c  go-module  (+1 duplicate)    
 github.com/docker/go-connections                                              v0.5.0                                  go-module  (+2 duplicates)   
@@ -643,7 +643,7 @@ jake                                                                          10
 java                                                                          1.0.0                                   npm                          
 javascript                                                                    1.0.0                                   npm                          
 jq                                                                            1.6-2.1                                 deb                          
-js-debug                                                                      1.90.0                                  npm                          
+js-debug                                                                      1.91.0                                  npm                          
 js-debug-companion                                                            1.1.2                                   npm                          
 jsbn                                                                          1.1.0                                   npm                          
 json                                                                          1.0.0                                   npm                          
@@ -996,7 +996,7 @@ libsasl2-modules                                                              2.
 libsasl2-modules-db                                                           2.1.28+dfsg-10                          deb                          
 libscalar-list-utils-perl                                                     1:1.63-1+b1                             deb                          
 libsdl2-2.0-0                                                                 2.26.5+dfsg-1                           deb                          
-libseccomp2                                                                   2.5.4-1+b3                              deb                          
+libseccomp2                                                                   2.5.4-1+deb12u1                         deb                          
 libsecret-1-0                                                                 0.20.5-3                                deb                          
 libsecret-common                                                              0.20.5-3                                deb                          
 libselinux1                                                                   3.4-1+b6                                deb                          
@@ -1231,7 +1231,7 @@ objective-c                                                                   1.
 ocl-icd-libopencl1                                                            2.3.1-1                                 deb                          
 on-finished                                                                   2.4.1                                   npm                          
 openbox                                                                       3.6.1-10                                deb                          
-openssh-client                                                                1:9.2p1-2+deb12u2                       deb                          
+openssh-client                                                                1:9.2p1-2+deb12u3                       deb                          
 openssl                                                                       3.0.13-1~deb12u1                        deb                          
 p-map                                                                         4.0.0                                   npm                          
 p11-kit                                                                       0.24.1-2                                deb                          
@@ -1399,7 +1399,7 @@ tuf-js                                                                        2.
 tunnel-forwarding                                                             1.0.0                                   npm                          
 type-is                                                                       1.6.18                                  npm                          
 typescript                                                                    1.0.0                                   npm                          
-typescript                                                                    5.4.5                                   npm                          
+typescript                                                                    5.5.2                                   npm                          
 typescript-language-features                                                  1.0.0                                   npm                          
 tzdata                                                                        2024a-0+deb12u1                         deb                          
 ucf                                                                           3.0043+nmu1                             deb                          
