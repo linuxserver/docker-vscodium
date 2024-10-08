@@ -32,6 +32,7 @@ NAME                                                                          VE
 @sigstore/tuf                                                                 2.3.2                                               npm                          
 @sigstore/verify                                                              1.2.0                                               npm                          
 @socket.io/component-emitter                                                  3.1.2                                               npm                          
+@socket.io/component-emitter                                                  UNKNOWN                                             npm        (+1 duplicate)    
 @tootallnate/once                                                             3.0.0                                               npm                          
 @tufjs/canonical-json                                                         2.0.0                                               npm                          
 @tufjs/models                                                                 2.0.0                                               npm                          
@@ -121,7 +122,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.4                                              go-module                    
 cmd-shim                                                                      6.0.2                                               npm                          
 code.cloudfoundry.org/clock                                                   v1.1.0                                              go-module                    
-codium                                                                        1.94.0.24281                                        deb                          
+codium                                                                        1.94.0.24282                                        deb                          
 coffeescript                                                                  1.0.0                                               npm                          
 color-convert                                                                 2.0.1                                               npm        (+1 duplicate)    
 color-name                                                                    1.1.4                                               npm        (+1 duplicate)    
@@ -217,6 +218,7 @@ encoding                                                                      0.
 end-of-stream                                                                 1.4.4                                               npm                          
 engine.io                                                                     6.6.1                                               npm                          
 engine.io-parser                                                              5.2.3                                               npm                          
+engine.io-parser                                                              UNKNOWN                                             npm        (+1 duplicate)    
 env-paths                                                                     2.2.1                                               npm                          
 err-code                                                                      2.0.3                                               npm                          
 es-define-property                                                            1.0.0                                               npm                          
