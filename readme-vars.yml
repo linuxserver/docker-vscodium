@@ -30,7 +30,7 @@ custom_params:
   - { name: "shm-size", name_compose: "shm_size", value: "1gb",desc: "This is needed for electron applications to function properly." }
 cap_add_param: true
 cap_add_param_vars:
-  - { cap_add_var: "IPC_LOCK" }
+  - { cap_add_var: "IPC_LOCK", desc: "Required for keyring functionality." }
 opt_security_opt_param: true
 opt_security_opt_param_vars:
   - { run_var: "seccomp=unconfined", compose_var: "seccomp:unconfined", desc: "For Docker Engine only, many modern gui apps need this to function on older hosts as syscalls are unknown to Docker. VSCodium runs in no-sandbox mode without it." }
