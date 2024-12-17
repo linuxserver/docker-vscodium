@@ -125,7 +125,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.4                                  go-module                   
 cmd-shim                                                                      6.0.3                                   npm                         
 code.cloudfoundry.org/clock                                                   v1.1.0                                  go-module                   
-codium                                                                        1.96.0.24347                            deb                         
+codium                                                                        1.96.0.24352                            deb                         
 coffeescript                                                                  1.0.0                                   npm                         
 color-convert                                                                 2.0.1                                   npm        (+1 duplicate)   
 color-name                                                                    1.1.4                                   npm        (+1 duplicate)   
