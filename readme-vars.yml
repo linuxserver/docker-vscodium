@@ -6,6 +6,7 @@ project_url: "https://vscodium.com/"
 project_logo: "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/vscodium-icon.png"
 project_blurb: "[VSCodium]({{ project_url }}) is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code."
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
+project_categories: "Programming"
 project_blurb_optional_extras_enabled: false
 # supported architectures
 available_architectures:
