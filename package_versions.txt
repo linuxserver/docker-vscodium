@@ -1,5 +1,6 @@
 NAME                                                                          VERSION                                 TYPE                       
 1to2                                                                          1.0.0                                   npm                         
+@c4312/eventsource-umd                                                        3.0.5                                   npm                         
 @isaacs/cliui                                                                 8.0.2                                   npm                         
 @isaacs/string-locale-compare                                                 1.1.0                                   npm                         
 @kasmtech/novnc                                                               1.3.0                                   npm                         
@@ -41,25 +42,25 @@ NAME                                                                          VE
 @types/semver                                                                 7.5.8                                   npm                         
 @vscode/deviceid                                                              0.1.1                                   npm                         
 @vscode/iconv-lite-umd                                                        0.7.0                                   npm                         
-@vscode/policy-watcher                                                        1.1.10                                  npm                         
 @vscode/proxy-agent                                                           0.32.0                                  npm                         
-@vscode/ripgrep                                                               1.15.10                                 npm                         
+@vscode/ripgrep                                                               1.15.11                                 npm                         
 @vscode/spdlog                                                                0.15.1                                  npm                         
 @vscode/sqlite3                                                               5.1.8-vscode                            npm                         
 @vscode/sudo-prompt                                                           9.3.1                                   npm                         
-@vscode/tree-sitter-wasm                                                      0.1.3                                   npm                         
+@vscode/tree-sitter-wasm                                                      0.1.4                                   npm                         
 @vscode/vscode-languagedetection                                              1.0.21                                  npm                         
-@xterm/addon-clipboard                                                        0.2.0-beta.81                           npm                         
-@xterm/addon-image                                                            0.9.0-beta.98                           npm                         
-@xterm/addon-ligatures                                                        0.10.0-beta.98                          npm                         
-@xterm/addon-progress                                                         0.2.0-beta.4                            npm                         
-@xterm/addon-search                                                           0.16.0-beta.98                          npm                         
-@xterm/addon-serialize                                                        0.14.0-beta.98                          npm                         
-@xterm/addon-unicode11                                                        0.9.0-beta.98                           npm                         
-@xterm/addon-webgl                                                            0.19.0-beta.98                          npm                         
-@xterm/headless                                                               5.6.0-beta.98                           npm                         
-@xterm/xterm                                                                  5.6.0-beta.98                           npm                         
-VSCodium                                                                      1.98.2                                  npm                         
+@vscodium/policy-watcher                                                      1.3.0-2503300035                        npm                         
+@xterm/addon-clipboard                                                        0.2.0-beta.82                           npm                         
+@xterm/addon-image                                                            0.9.0-beta.99                           npm                         
+@xterm/addon-ligatures                                                        0.10.0-beta.99                          npm                         
+@xterm/addon-progress                                                         0.2.0-beta.5                            npm                         
+@xterm/addon-search                                                           0.16.0-beta.99                          npm                         
+@xterm/addon-serialize                                                        0.14.0-beta.99                          npm                         
+@xterm/addon-unicode11                                                        0.9.0-beta.99                           npm                         
+@xterm/addon-webgl                                                            0.19.0-beta.99                          npm                         
+@xterm/headless                                                               5.6.0-beta.99                           npm                         
+@xterm/xterm                                                                  5.6.0-beta.99                           npm                         
+VSCodium                                                                      1.99.02277                              npm                         
 abbrev                                                                        2.0.0                                   npm                         
 accepts                                                                       1.3.8                                   npm                         
 adduser                                                                       3.134                                   deb                         
@@ -112,9 +113,9 @@ chalk                                                                         4.
 chalk                                                                         5.3.0                                   npm                         
 chownr                                                                        2.0.0                                   npm        (+1 duplicate)   
 chrome-remote-interface                                                       0.33.0                                  npm                         
-chromium                                                                      134.0.6998.117-1~deb12u1                deb                         
-chromium-common                                                               134.0.6998.117-1~deb12u1                deb                         
-chromium-l10n                                                                 134.0.6998.117-1~deb12u1                deb                         
+chromium                                                                      135.0.7049.52-1~deb12u1                 deb                         
+chromium-common                                                               135.0.7049.52-1~deb12u1                 deb                         
+chromium-l10n                                                                 135.0.7049.52-1~deb12u1                 deb                         
 ci-info                                                                       4.0.0                                   npm                         
 cidr-regex                                                                    4.1.1                                   npm                         
 clean-stack                                                                   2.2.0                                   npm                         
@@ -125,7 +126,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.4                                  go-module                   
 cmd-shim                                                                      6.0.3                                   npm                         
 code.cloudfoundry.org/clock                                                   v1.1.0                                  go-module                   
-codium                                                                        1.98.2.25078                            deb                         
+codium                                                                        1.99.02277                              deb                         
 coffeescript                                                                  1.0.0                                   npm                         
 color-convert                                                                 2.0.1                                   npm        (+1 duplicate)   
 color-name                                                                    1.1.4                                   npm        (+1 duplicate)   
@@ -231,6 +232,7 @@ es-errors                                                                     1.
 es-object-atoms                                                               1.1.1                                   npm                         
 escape-html                                                                   1.0.3                                   npm                         
 etag                                                                          1.8.1                                   npm                         
+eventsource-parser                                                            3.0.0                                   npm                         
 exim4-base                                                                    4.96-15+deb12u7                         deb                         
 exim4-config                                                                  4.96-15+deb12u7                         deb                         
 exim4-daemon-light                                                            4.96-15+deb12u7                         deb                         
@@ -1328,7 +1330,7 @@ nginx                                                                         1.
 nginx-common                                                                  1.22.1-9+deb12u1                        deb                         
 node-abi                                                                      3.8.0                                   npm                         
 node-gyp                                                                      10.1.0                                  npm                         
-node-pty                                                                      1.1.0-beta31                            npm                         
+node-pty                                                                      1.1.0-beta33                            npm                         
 nodejs                                                                        18.20.8-1nodesource1                    deb                         
 nopt                                                                          7.2.1                                   npm                         
 normalize-package-data                                                        6.0.2                                   npm                         
