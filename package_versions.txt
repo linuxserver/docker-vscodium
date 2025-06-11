@@ -36,8 +36,8 @@ NAME                                                                          VE
 @tootallnate/once                                                             3.0.0                                   npm                         
 @tufjs/canonical-json                                                         2.0.0                                   npm                         
 @tufjs/models                                                                 2.0.1                                   npm                         
-@types/cors                                                                   2.8.18                                  npm                         
-@types/node                                                                   22.15.29                                npm                         
+@types/cors                                                                   2.8.19                                  npm                         
+@types/node                                                                   22.15.30                                npm                         
 @types/semver                                                                 7.5.8                                   npm                         
 @vscode/deviceid                                                              0.1.1                                   npm                         
 @vscode/iconv-lite-umd                                                        0.7.0                                   npm                         
@@ -111,9 +111,9 @@ chalk                                                                         4.
 chalk                                                                         5.3.0                                   npm                         
 chownr                                                                        2.0.0                                   npm        (+1 duplicate)   
 chrome-remote-interface                                                       0.33.0                                  npm                         
-chromium                                                                      137.0.7151.55-3~deb12u1                 deb                         
-chromium-common                                                               137.0.7151.55-3~deb12u1                 deb                         
-chromium-l10n                                                                 137.0.7151.55-3~deb12u1                 deb                         
+chromium                                                                      137.0.7151.68-1~deb12u1                 deb                         
+chromium-common                                                               137.0.7151.68-1~deb12u1                 deb                         
+chromium-l10n                                                                 137.0.7151.68-1~deb12u1                 deb                         
 ci-info                                                                       4.0.0                                   npm                         
 cidr-regex                                                                    4.1.1                                   npm                         
 clean-stack                                                                   2.2.0                                   npm                         
