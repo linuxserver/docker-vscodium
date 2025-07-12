@@ -107,6 +107,7 @@ init_diagram: |
   "vscodium:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "12.07.25:", desc: "Rebase to Selkies, HTTPS IS NOW REQUIRED."}
   - {date: "10.02.24:", desc: "Update Readme with new env vars and ingest proper PWA icon."}
   - {date: "06.01.24:", desc: "Rebase to Debian Bookworm."}
   - {date: "17.01.24:", desc: "Update wrapper scripts to cleanup and launch properly."}
