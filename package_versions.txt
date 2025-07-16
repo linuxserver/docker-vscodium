@@ -59,7 +59,7 @@ NAME                                                                          VE
 @xterm/addon-webgl                                                            0.19.0-beta.112                         npm                         
 @xterm/headless                                                               5.6.0-beta.112                          npm                         
 @xterm/xterm                                                                  5.6.0-beta.112                          npm                         
-VSCodium                                                                      1.102.04606                             npm                         
+VSCodium                                                                      1.102.14746                             npm                         
 abbrev                                                                        2.0.0                                   npm                         
 accepts                                                                       1.3.8                                   npm                         
 adduser                                                                       3.134                                   deb                         
@@ -126,7 +126,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v0.5.5                                  go-module                   
 cmd-shim                                                                      6.0.3                                   npm                         
 code.cloudfoundry.org/clock                                                   v1.1.0                                  go-module                   
-codium                                                                        1.102.04606                             deb                         
+codium                                                                        1.102.14746                             deb                         
 coffeescript                                                                  1.0.0                                   npm                         
 color-convert                                                                 2.0.1                                   npm        (+1 duplicate)   
 color-name                                                                    1.1.4                                   npm        (+1 duplicate)   
