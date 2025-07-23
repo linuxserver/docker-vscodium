@@ -31,10 +31,16 @@ VSCodium                                                                      1.
 adduser                                                                       3.134                                   deb                         
 adwaita-icon-theme                                                            43-1                                    deb                         
 agent-base                                                                    7.1.1                                   npm                         
+aiohappyeyeballs                                                              2.6.1                                   python                      
+aiohttp                                                                       3.12.14                                 python                      
+aioice                                                                        0.10.1                                  python                      
+aiosignal                                                                     1.4.0                                   python                      
 apt                                                                           2.6.1                                   deb                         
 apt-transport-https                                                           2.6.1                                   deb                         
 apt-utils                                                                     2.6.1                                   deb                         
 at-spi2-common                                                                2.46.0-5                                deb                         
+attrs                                                                         25.3.0                                  python                      
+av                                                                            14.4.0                                  python                      
 base-files                                                                    12.4+deb12u11                           deb                         
 base-passwd                                                                   3.6.1                                   deb                         
 base64-js                                                                     1.5.1                                   npm                         
@@ -57,6 +63,7 @@ builtin-notebook-renderers                                                    1.
 bundle-name                                                                   4.1.0                                   npm                         
 ca-certificates                                                               20230311+deb12u1                        deb                         
 catatonit                                                                     0.1.7-1+b1                              deb                         
+cffi                                                                          1.17.1                                  python                      
 chownr                                                                        2.0.0                                   npm                         
 chrome-remote-interface                                                       0.33.0                                  npm                         
 chromium                                                                      138.0.7204.157-1~deb12u1                deb                         
@@ -82,6 +89,7 @@ cpp-12                                                                        12
 cron                                                                          3.0pl1-162                              deb                         
 cron-daemon-common                                                            3.0pl1-162                              deb                         
 cryptography                                                                  38.0.4                                  python     (+1 duplicate)   
+cryptography                                                                  45.0.5                                  python                      
 csharp                                                                        1.0.0                                   npm                         
 css                                                                           1.0.0                                   npm                         
 css-language-features                                                         1.0.0                                   npm                         
@@ -119,6 +127,7 @@ dirmngr                                                                       2.
 distro                                                                        1.8.0                                   python                      
 distro-info-data                                                              0.58+deb12u4                            deb                         
 dmsetup                                                                       2:1.02.185-2                            deb                         
+dnspython                                                                     2.7.0                                   python                      
 docker                                                                        1.0.0                                   npm                         
 docker-buildx-plugin                                                          0.25.0-1~debian.12~bookworm             deb                         
 docker-ce                                                                     5:28.3.2-1~debian.12~bookworm           deb                         
@@ -153,6 +162,7 @@ fonts-noto-cjk                                                                1:
 fonts-noto-color-emoji                                                        2.042-0+deb12u1                         deb                         
 fonts-noto-core                                                               20201225-1                              deb                         
 fonts-urw-base35                                                              20200910-7                              deb                         
+frozenlist                                                                    1.7.0                                   python                      
 fs-constants                                                                  1.0.0                                   npm                         
 fs-extra                                                                      11.2.0                                  npm                         
 fs-minipass                                                                   2.1.0                                   npm                         
@@ -550,6 +560,7 @@ golang.org/x/text                                                             v0
 golang.org/x/text                                                             v0.24.0                                 go-module  (+2 duplicates)  
 golang.org/x/time                                                             v0.0.0-20220210224613-90d013bbcef8      go-module                   
 golang.org/x/time                                                             v0.11.0                                 go-module  (+2 duplicates)  
+google-crc32c                                                                 1.7.1                                   python                      
 google.golang.org/api                                                         v0.160.0                                go-module                   
 google.golang.org/genproto                                                    v0.0.0-20231211222908-989df2bf70f3      go-module  (+4 duplicates)  
 google.golang.org/genproto                                                    v0.0.0-20240227224415-6ceb2ff114de      go-module                   
@@ -595,7 +606,9 @@ html-language-features                                                        1.
 http-proxy-agent                                                              7.0.2                                   npm                         
 httplib2                                                                      0.20.4                                  python                      
 https-proxy-agent                                                             7.0.5                                   npm                         
+idna                                                                          3.10                                    python                      
 ieee754                                                                       1.2.1                                   npm                         
+ifaddr                                                                        0.2.0                                   python                      
 inherits                                                                      2.0.4                                   npm                         
 ini                                                                           1.0.0                                   npm                         
 ini                                                                           1.3.8                                   npm                         
@@ -1067,6 +1080,7 @@ mkdirp-classic                                                                0.
 mount                                                                         2.38.1-5+deb12u3                        deb                         
 ms                                                                            2.1.3                                   npm                         
 msgpack                                                                       1.1.1                                   python                      
+multidict                                                                     6.6.3                                   python                      
 napi-build-utils                                                              1.0.2                                   npm                         
 native-is-elevated                                                            0.7.0                                   npm                         
 native-keymap                                                                 3.3.5                                   npm                         
@@ -1109,7 +1123,7 @@ picomatch                                                                     2.
 pillow                                                                        11.3.0                                  python                      
 pinentry-curses                                                               1.2.1-1                                 deb                         
 pinentry-gnome3                                                               1.2.1-1                                 deb                         
-pixelflux                                                                     1.2.9                                   python                      
+pixelflux                                                                     1.3.0                                   python                      
 polkitd                                                                       122-3                                   deb                         
 poppler-data                                                                  0.4.12-1                                deb                         
 powershell                                                                    1.0.0                                   npm                         
@@ -1117,6 +1131,7 @@ procps                                                                        2:
 prometheus-client                                                             0.22.1                                  python                      
 promise-stream-reader                                                         1.0.1                                   npm                         
 prompt                                                                        1.0.0                                   npm                         
+propcache                                                                     0.3.2                                   python                      
 proxy-from-env                                                                1.1.0                                   npm                         
 psmisc                                                                        23.6-1                                  deb                         
 psutil                                                                        7.0.0                                   python                      
@@ -1125,9 +1140,13 @@ pug                                                                           1.
 pulseaudio                                                                    16.1+dfsg1-2+b1                         deb                         
 pulseaudio-utils                                                              16.1+dfsg1-2+b1                         deb                         
 pulsectl                                                                      24.12.0                                 python                      
+pycparser                                                                     2.22                                    python                      
+pyee                                                                          13.0.0                                  python                      
 pygobject                                                                     3.42.2                                  python                      
 pyjwt                                                                         2.6.0                                   python                      
+pylibsrtp                                                                     0.12.0                                  python                      
 pynput                                                                        1.8.1                                   python                      
+pyopenssl                                                                     25.1.0                                  python                      
 pyparsing                                                                     3.0.9                                   python                      
 python                                                                        1.0.0                                   npm                         
 python-apt                                                                    2.6.0                                   python                      
@@ -1236,6 +1255,7 @@ tunnel-forwarding                                                             1.
 typescript                                                                    1.0.0                                   npm                         
 typescript                                                                    5.8.3                                   npm                         
 typescript-language-features                                                  1.0.0                                   npm                         
+typing-extensions                                                             4.14.1                                  python                      
 tzdata                                                                        2025b-0+deb12u1                         deb                         
 ucf                                                                           3.0043+nmu1+deb12u1                     deb                         
 udev                                                                          252.38-1~deb12u1                        deb                         
@@ -1295,6 +1315,7 @@ xutils                                                                        1:
 xvfb                                                                          2:21.1.7-3+deb12u10                     deb                         
 yallist                                                                       4.0.0                                   npm        (+3 duplicates)  
 yaml                                                                          1.0.0                                   npm                         
+yarl                                                                          1.20.1                                  python                      
 yauzl                                                                         2.10.0                                  npm                         
 yauzl                                                                         3.1.1                                   npm                         
 yazl                                                                          2.4.3                                   npm                         
