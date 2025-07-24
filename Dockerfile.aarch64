@@ -20,13 +20,13 @@ RUN \
   echo "**** install packages ****" && \
   apt-get update && \
   apt-get install --no-install-recommends -y \
+    caja \
     chromium \
     chromium-l10n \
     git \
     gnome-keyring \
     ssh-askpass \
-    stterm \
-    thunar && \
+    stterm && \
   echo "**** install codium ****" && \
   if [ -z ${CODIUM_VERSION+x} ]; then \
     CODIUM_VERSION=$(curl -sX GET "https://api.github.com/repos/VSCodium/vscodium/releases/latest" \
