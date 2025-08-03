@@ -69,9 +69,9 @@ catatonit                                                                     0.
 cffi                                                                          1.17.1                                     python                      
 chownr                                                                        2.0.0                                      npm                         
 chrome-remote-interface                                                       0.33.0                                     npm                         
-chromium                                                                      138.0.7204.168-1~deb12u1                   deb                         
-chromium-common                                                               138.0.7204.168-1~deb12u1                   deb                         
-chromium-l10n                                                                 138.0.7204.168-1~deb12u1                   deb                         
+chromium                                                                      138.0.7204.183-1~deb12u1                   deb                         
+chromium-common                                                               138.0.7204.183-1~deb12u1                   deb                         
+chromium-l10n                                                                 138.0.7204.183-1~deb12u1                   deb                         
 cli                                                                           UNKNOWN                                    binary                      
 cli-32                                                                        UNKNOWN                                    binary                      
 cli-64                                                                        UNKNOWN                                    binary                      
@@ -974,7 +974,7 @@ libspeexdsp1                                                                  1.
 libsqlite3-0                                                                  3.40.1-2+deb12u1                           deb                         
 libss2                                                                        1.47.0-2                                   deb                         
 libssh2-1                                                                     1.10.0-3+b1                                deb                         
-libssl3                                                                       3.0.16-1~deb12u1                           deb                         
+libssl3                                                                       3.0.17-1~deb12u1                           deb                         
 libstartup-notification0                                                      0.12-6+b1                                  deb                         
 libstdc++-12-dev                                                              12.2.0-14+deb12u1                          deb                         
 libstdc++6                                                                    12.2.0-14+deb12u1                          deb                         
@@ -1149,8 +1149,8 @@ ocl-icd-libopencl1                                                            2.
 once                                                                          1.4.0                                      npm                         
 open                                                                          10.1.2                                     npm                         
 openbox                                                                       3.6.1-10                                   deb                         
-openssh-client                                                                1:9.2p1-2+deb12u6                          deb                         
-openssl                                                                       3.0.16-1~deb12u1                           deb                         
+openssh-client                                                                1:9.2p1-2+deb12u7                          deb                         
+openssl                                                                       3.0.17-1~deb12u1                           deb                         
 opentype.js                                                                   0.8.0                                      npm                         
 p11-kit                                                                       0.24.1-2                                   deb                         
 p11-kit-modules                                                               0.24.1-2                                   deb                         
@@ -1263,7 +1263,6 @@ simple-browser                                                                1.
 simple-concat                                                                 1.0.1                                      npm                         
 simple-get                                                                    4.0.1                                      npm                         
 six                                                                           1.16.0                                     python                      
-six                                                                           1.17.0                                     python                      
 smart-buffer                                                                  4.2.0                                      npm                         
 socks                                                                         2.8.3                                      npm                         
 socks-proxy-agent                                                             8.0.4                                      npm                         
