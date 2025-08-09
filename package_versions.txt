@@ -27,7 +27,7 @@ NAME                                                                          VE
 @xterm/addon-webgl                                                            0.19.0-beta.112                            npm                         
 @xterm/headless                                                               5.6.0-beta.112                             npm                         
 @xterm/xterm                                                                  5.6.0-beta.112                             npm                         
-VSCodium                                                                      1.102.35058                                npm                         
+VSCodium                                                                      1.103.05312                                npm                         
 adduser                                                                       3.134                                      deb                         
 adwaita-icon-theme                                                            43-1                                       deb                         
 agent-base                                                                    7.1.1                                      npm                         
@@ -83,9 +83,10 @@ cloud.google.com/go/longrunning                                               v0
 cmake                                                                         3.25.1-1                                   deb                         
 cmake-data                                                                    3.25.1-1                                   deb                         
 code.cloudfoundry.org/clock                                                   v1.1.0                                     go-module                   
-codium                                                                        1.102.35058                                deb                         
+codium                                                                        1.103.05312                                deb                         
 coffeescript                                                                  1.0.0                                      npm                         
 commander                                                                     2.11.0                                     npm                         
+commander                                                                     8.3.0                                      npm                         
 configuration-editing                                                         1.0.0                                      npm                         
 console-data                                                                  2:1.12-9                                   deb                         
 containerd.io                                                                 1.7.27-1                                   deb                         
@@ -679,6 +680,7 @@ k8s.io/klog/v2                                                                v2
 k8s.io/kube-openapi                                                           v0.0.0-20241105132330-32ad38e42d3f         go-module  (+1 duplicate)   
 k8s.io/utils                                                                  v0.0.0-20230220204549-a5ecb0141aa5         go-module                   
 k8s.io/utils                                                                  v0.0.0-20241104100929-3ea5e8cea738         go-module  (+1 duplicate)   
+katex                                                                         0.16.22                                    npm                         
 kbd                                                                           2.5.1-1+b1                                 deb                         
 kerberos                                                                      2.1.1                                      npm                         
 keyboard-configuration                                                        1.221                                      deb                         
@@ -974,7 +976,7 @@ libspeexdsp1                                                                  1.
 libsqlite3-0                                                                  3.40.1-2+deb12u1                           deb                         
 libss2                                                                        1.47.0-2                                   deb                         
 libssh2-1                                                                     1.10.0-3+b1                                deb                         
-libssl3                                                                       3.0.17-1~deb12u1                           deb                         
+libssl3                                                                       3.0.17-1~deb12u2                           deb                         
 libstartup-notification0                                                      0.12-6+b1                                  deb                         
 libstdc++-12-dev                                                              12.2.0-14+deb12u1                          deb                         
 libstdc++6                                                                    12.2.0-14+deb12u1                          deb                         
@@ -1150,7 +1152,7 @@ once                                                                          1.
 open                                                                          10.1.2                                     npm                         
 openbox                                                                       3.6.1-10                                   deb                         
 openssh-client                                                                1:9.2p1-2+deb12u7                          deb                         
-openssl                                                                       3.0.17-1~deb12u1                           deb                         
+openssl                                                                       3.0.17-1~deb12u2                           deb                         
 opentype.js                                                                   0.8.0                                      npm                         
 p11-kit                                                                       0.24.1-2                                   deb                         
 p11-kit-modules                                                               0.24.1-2                                   deb                         
@@ -1305,7 +1307,7 @@ tslib                                                                         2.
 tunnel-agent                                                                  0.6.0                                      npm                         
 tunnel-forwarding                                                             1.0.0                                      npm                         
 typescript                                                                    1.0.0                                      npm                         
-typescript                                                                    5.8.3                                      npm                         
+typescript                                                                    5.9.2                                      npm                         
 typescript-language-features                                                  1.0.0                                      npm                         
 typing-extensions                                                             4.14.1                                     python                      
 tzdata                                                                        2025b-0+deb12u1                            deb                         
