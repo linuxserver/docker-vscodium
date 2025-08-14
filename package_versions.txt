@@ -69,9 +69,9 @@ catatonit                                                                     0.
 cffi                                                                          1.17.1                                     python                      
 chownr                                                                        2.0.0                                      npm                         
 chrome-remote-interface                                                       0.33.0                                     npm                         
-chromium                                                                      139.0.7258.66-1~deb12u1                    deb                         
-chromium-common                                                               139.0.7258.66-1~deb12u1                    deb                         
-chromium-l10n                                                                 139.0.7258.66-1~deb12u1                    deb                         
+chromium                                                                      139.0.7258.127-1~deb12u1                   deb                         
+chromium-common                                                               139.0.7258.127-1~deb12u1                   deb                         
+chromium-l10n                                                                 139.0.7258.127-1~deb12u1                   deb                         
 cli                                                                           UNKNOWN                                    binary                      
 cli-32                                                                        UNKNOWN                                    binary                      
 cli-64                                                                        UNKNOWN                                    binary                      
@@ -1093,7 +1093,7 @@ libz3-4                                                                       4.
 libzstd1                                                                      1.5.4+dfsg2-5                              deb                         
 libzvbi-common                                                                0.2.41-1                                   deb                         
 libzvbi0                                                                      0.2.41-1                                   deb                         
-linux-libc-dev                                                                6.1.140-1                                  deb                         
+linux-libc-dev                                                                6.1.147-1                                  deb                         
 locales                                                                       2.36-9+deb12u10                            deb                         
 locales-all                                                                   2.36-9+deb12u10                            deb                         
 log                                                                           1.0.0                                      npm                         
@@ -1130,7 +1130,7 @@ mkdirp-classic                                                                0.
 mount                                                                         2.38.1-5+deb12u3                           deb                         
 ms                                                                            2.1.3                                      npm                         
 msgpack                                                                       1.1.1                                      python                      
-multidict                                                                     6.6.3                                      python                      
+multidict                                                                     6.6.4                                      python                      
 napi-build-utils                                                              1.0.2                                      npm                         
 native-is-elevated                                                            0.7.0                                      npm                         
 native-keymap                                                                 3.3.5                                      npm                         
@@ -1175,7 +1175,7 @@ pillow                                                                        11
 pinentry-curses                                                               1.2.1-1                                    deb                         
 pinentry-gnome3                                                               1.2.1-1                                    deb                         
 pip                                                                           23.0.1                                     python                      
-pixelflux                                                                     1.3.1                                      python                      
+pixelflux                                                                     1.3.2                                      python                      
 polkitd                                                                       122-3                                      deb                         
 poppler-data                                                                  0.4.12-1                                   deb                         
 powershell                                                                    1.0.0                                      npm                         
