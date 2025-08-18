@@ -27,7 +27,7 @@ NAME                                                                          VE
 @xterm/addon-webgl                                                            0.19.0-beta.112                            npm                         
 @xterm/headless                                                               5.6.0-beta.112                             npm                         
 @xterm/xterm                                                                  5.6.0-beta.112                             npm                         
-VSCodium                                                                      1.103.15418                                npm                         
+VSCodium                                                                      1.103.15539                                npm                         
 adduser                                                                       3.134                                      deb                         
 adwaita-icon-theme                                                            43-1                                       deb                         
 agent-base                                                                    7.1.1                                      npm                         
@@ -83,7 +83,7 @@ cloud.google.com/go/longrunning                                               v0
 cmake                                                                         3.25.1-1                                   deb                         
 cmake-data                                                                    3.25.1-1                                   deb                         
 code.cloudfoundry.org/clock                                                   v1.1.0                                     go-module                   
-codium                                                                        1.103.15418                                deb                         
+codium                                                                        1.103.15539                                deb                         
 coffeescript                                                                  1.0.0                                      npm                         
 commander                                                                     2.11.0                                     npm                         
 commander                                                                     8.3.0                                      npm                         
@@ -1365,6 +1365,7 @@ xserver-xorg-video-intel                                                      2:
 xserver-xorg-video-nouveau                                                    1:1.0.17-2                                 deb                         
 xserver-xorg-video-qxl                                                        0.1.5+git20200331-3                        deb                         
 xserver-xorg-video-radeon                                                     1:19.1.0-3                                 deb                         
+xsettingsd                                                                    1.0.2-1                                    deb                         
 xterm                                                                         379-1                                      deb                         
 xutils                                                                        1:7.7+23                                   deb                         
 xvfb                                                                          2:21.1.7-3+deb12u10                        deb                         
