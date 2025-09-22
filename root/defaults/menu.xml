@@ -4,6 +4,6 @@
 <item label="Terminal" icon="/usr/share/pixmaps/xterm-color_48x48.xpm"><action name="Execute"><command>/usr/bin/st</command></action></item>
 <item label="VSCodium" icon="/usr/share/pixmaps/vscodium.png"><action name="Execute"><command>/usr/bin/codium</command></action></item>
 <item label="Chromium" icon="/usr/share/icons/hicolor/48x48/apps/chromium.png"><action name="Execute"><command>/usr/bin/chromium</command></action></item>
-<item label="File Manager" icon="/usr/share/icons/Adwaita/48x48/legacy/system-file-manager.png"><action name="Execute"><command>/usr/bin/caja</command></action></item>
+<item label="File Manager" icon="/usr/share/icons/Adwaita/symbolic/legacy/system-file-manager-symbolic.svg"><action name="Execute"><command>/usr/bin/caja</command></action></item>
 </menu>
 </openbox_menu>
