@@ -9,7 +9,7 @@ NAME                                                                          VE
 @types/semver                                                                 7.5.8                                   npm                          
 @vscode/deviceid                                                              0.1.1                                   npm                          
 @vscode/iconv-lite-umd                                                        0.7.0                                   npm                          
-@vscode/proxy-agent                                                           0.33.0                                  npm                          
+@vscode/proxy-agent                                                           0.34.0                                  npm                          
 @vscode/ripgrep                                                               1.15.14                                 npm                          
 @vscode/spdlog                                                                0.15.2                                  npm                          
 @vscode/sqlite3                                                               5.1.8-vscode                            npm                          
@@ -27,7 +27,7 @@ NAME                                                                          VE
 @xterm/addon-webgl                                                            0.19.0-beta.118                         npm                          
 @xterm/headless                                                               5.6.0-beta.118                          npm                          
 @xterm/xterm                                                                  5.6.0-beta.118                          npm                          
-VSCodium                                                                      1.104.26450                             npm                          
+VSCodium                                                                      1.104.36664                             npm                          
 adduser                                                                       3.152                                   deb                          
 adwaita-icon-theme                                                            48.1-1                                  deb                          
 agent-base                                                                    7.1.1                                   npm                          
@@ -85,7 +85,7 @@ cloud.google.com/go/longrunning                                               v0
 cmake                                                                         3.31.6-2                                deb                          
 cmake-data                                                                    3.31.6-2                                deb                          
 code.cloudfoundry.org/clock                                                   v1.37.0                                 go-module                    
-codium                                                                        1.104.26450                             deb                          
+codium                                                                        1.104.36664                             deb                          
 coffeescript                                                                  1.0.0                                   npm                          
 commander                                                                     2.11.0                                  npm                          
 commander                                                                     8.3.0                                   npm                          
@@ -138,7 +138,7 @@ dmidecode                                                                     3.
 dmsetup                                                                       2:1.02.205-2                            deb                          
 dnspython                                                                     2.8.0                                   python                       
 docker                                                                        1.0.0                                   npm                          
-docker-buildx-plugin                                                          0.29.0-0~debian.13~trixie               deb                          
+docker-buildx-plugin                                                          0.29.1-1~debian.13~trixie               deb                          
 docker-ce                                                                     5:28.5.0-1~debian.13~trixie             deb                          
 docker-ce-cli                                                                 5:28.5.0-1~debian.13~trixie             deb                          
 docker-compose-plugin                                                         2.39.4-0~debian.13~trixie               deb                          
@@ -288,7 +288,7 @@ github.com/deckarep/golang-set/v2                                             v2
 github.com/dimchansky/utfbom                                                  v1.1.1                                  go-module                    
 github.com/distribution/reference                                             v0.6.0                                  go-module  (+4 duplicates)   
 github.com/docker/buildx                                                      v0.28.0                                 go-module                    
-github.com/docker/buildx                                                      v0.29.0                                 go-module                    
+github.com/docker/buildx                                                      v0.29.1                                 go-module                    
 github.com/docker/cli                                                         v28.4.0+incompatible                    go-module  (+1 duplicate)    
 github.com/docker/cli-docs-tool                                               v0.10.0                                 go-module  (+1 duplicate)    
 github.com/docker/cli/cmd/docker                                              UNKNOWN                                 go-module                    
