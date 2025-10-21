@@ -27,7 +27,7 @@ NAME                                                                          VE
 @xterm/addon-webgl                                                            0.19.0-beta.119                         npm                         
 @xterm/headless                                                               5.6.0-beta.119                          npm                         
 @xterm/xterm                                                                  5.6.0-beta.119                          npm                         
-VSCodium                                                                      1.105.17017                             npm                         
+VSCodium                                                                      1.105.17075                             npm                         
 adduser                                                                       3.152                                   deb                         
 adwaita-icon-theme                                                            48.1-1                                  deb                         
 agent-base                                                                    7.1.1                                   npm                         
@@ -85,7 +85,7 @@ cloud.google.com/go/longrunning                                               v0
 cmake                                                                         3.31.6-2                                deb                         
 cmake-data                                                                    3.31.6-2                                deb                         
 code.cloudfoundry.org/clock                                                   v1.37.0                                 go-module                   
-codium                                                                        1.105.17017                             deb                         
+codium                                                                        1.105.17075                             deb                         
 coffeescript                                                                  1.0.0                                   npm                         
 commander                                                                     2.11.0                                  npm                         
 commander                                                                     8.3.0                                   npm                         
@@ -1204,7 +1204,7 @@ prompt                                                                        1.
 propcache                                                                     0.4.1                                   python                      
 proxy-from-env                                                                1.1.0                                   npm                         
 psmisc                                                                        23.7-2                                  deb                         
-psutil                                                                        7.1.0                                   python                      
+psutil                                                                        7.1.1                                   python                      
 publicsuffix                                                                  20250328.1952-0.1                       deb                         
 pug                                                                           1.0.0                                   npm                         
 pulseaudio                                                                    17.0+dfsg1-2+b1                         deb                         
