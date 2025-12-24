@@ -11,11 +11,12 @@ NAME                                                                          VE
 @vscode/iconv-lite-umd                                                        0.7.1                                   npm                         
 @vscode/proxy-agent                                                           0.36.0                                  npm                         
 @vscode/ripgrep                                                               1.15.14                                 npm                         
-@vscode/spdlog                                                                0.15.2                                  npm                         
-@vscode/sqlite3                                                               5.1.8-vscode                            npm                         
+@vscode/spdlog                                                                0.15.4                                  npm                         
+@vscode/sqlite3                                                               5.1.10-vscode                           npm                         
 @vscode/sudo-prompt                                                           9.3.1                                   npm                         
-@vscode/tree-sitter-wasm                                                      0.2.0                                   npm                         
+@vscode/tree-sitter-wasm                                                      0.3.0                                   npm                         
 @vscode/vscode-languagedetection                                              1.0.21                                  npm                         
+@vscodium/native-keymap                                                       3.3.7-258424                            npm                         
 @vscodium/policy-watcher                                                      1.3.2-252465                            npm                         
 @xterm/addon-clipboard                                                        0.2.0-beta.119                          npm                         
 @xterm/addon-image                                                            0.9.0-beta.136                          npm                         
@@ -27,10 +28,10 @@ NAME                                                                          VE
 @xterm/addon-webgl                                                            0.19.0-beta.136                         npm                         
 @xterm/headless                                                               5.6.0-beta.136                          npm                         
 @xterm/xterm                                                                  5.6.0-beta.136                          npm                         
-VSCodium                                                                      1.106.37943                             npm                         
+VSCodium                                                                      1.107.18605                             npm                         
 adduser                                                                       3.152                                   deb                         
 adwaita-icon-theme                                                            48.1-1                                  deb                         
-agent-base                                                                    7.1.1                                   npm                         
+agent-base                                                                    7.1.4                                   npm                         
 aiohappyeyeballs                                                              2.6.1                                   python                      
 aiohttp                                                                       3.13.2                                  python                      
 aioice                                                                        0.10.2                                  python                      
@@ -87,7 +88,7 @@ cloud.google.com/go/longrunning                                               v0
 cmake                                                                         3.31.6-2                                deb                         
 cmake-data                                                                    3.31.6-2                                deb                         
 code.cloudfoundry.org/clock                                                   v1.37.0                                 go-module                   
-codium                                                                        1.106.37943                             deb                         
+codium                                                                        1.107.18605                             deb                         
 coffeescript                                                                  1.0.0                                   npm                         
 commander                                                                     2.11.0                                  npm                         
 commander                                                                     8.3.0                                   npm                         
@@ -615,7 +616,7 @@ hostname                                                                      3.
 html                                                                          1.0.0                                   npm                         
 html-language-features                                                        1.0.0                                   npm                         
 http-proxy-agent                                                              7.0.2                                   npm                         
-https-proxy-agent                                                             7.0.5                                   npm                         
+https-proxy-agent                                                             7.0.6                                   npm                         
 idna                                                                          3.11                                    python                      
 ieee754                                                                       1.2.1                                   npm                         
 ifaddr                                                                        0.2.0                                   python                      
@@ -1152,9 +1153,8 @@ ms                                                                            2.
 msgpack                                                                       1.1.2                                   python                      
 multidict                                                                     6.7.0                                   python                      
 my-test-package                                                               1.0                                     python                      
-napi-build-utils                                                              1.0.2                                   npm                         
-native-is-elevated                                                            0.7.0                                   npm                         
-native-keymap                                                                 3.3.5                                   npm                         
+napi-build-utils                                                              2.0.0                                   npm                         
+native-is-elevated                                                            0.8.0                                   npm                         
 native-watchdog                                                               1.4.2                                   npm                         
 ncurses-base                                                                  6.5+20250216-2                          deb                         
 ncurses-bin                                                                   6.5+20250216-2                          deb                         
@@ -1289,7 +1289,7 @@ tags.cncf.io/container-device-interface/specs-go                              v1
 tags.cncf.io/container-device-interface/specs-go                              v1.1.0                                  go-module  (+1 duplicate)   
 tar                                                                           1.35+dfsg-3.1                           deb                         
 tar                                                                           6.2.1                                   npm                         
-tas-client-umd                                                                0.2.0                                   npm                         
+tas-client                                                                    0.3.1                                   npm                         
 terminal-suggest                                                              1.0.1                                   npm                         
 theme-abyss                                                                   1.0.0                                   npm                         
 theme-defaults                                                                1.0.0                                   npm                         
