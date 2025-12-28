@@ -32,6 +32,7 @@ VSCodium                                                                      1.
 adduser                                                                       3.152                                   deb                         
 adwaita-icon-theme                                                            48.1-1                                  deb                         
 agent-base                                                                    7.1.4                                   npm                         
+aiofiles                                                                      25.1.0                                  python                      
 aiohappyeyeballs                                                              2.6.1                                   python                      
 aiohttp                                                                       3.13.2                                  python                      
 aioice                                                                        0.10.2                                  python                      
@@ -135,6 +136,7 @@ detect-libc                                                                   2.
 diff                                                                          1.0.0                                   npm                         
 diffutils                                                                     1:3.10-4                                deb                         
 dirmngr                                                                       2.4.7-21+b3                             deb                         
+distro                                                                        1.9.0                                   python                      
 dmidecode                                                                     3.6-2                                   deb                         
 dmsetup                                                                       2:1.02.205-2                            deb                         
 dnspython                                                                     2.8.0                                   python                      
@@ -1198,7 +1200,7 @@ pillow                                                                        12
 pinentry-curses                                                               1.3.1-2                                 deb                         
 pinentry-gnome3                                                               1.3.1-2                                 deb                         
 pip                                                                           25.1.1                                  python                      
-pixelflux                                                                     1.5.1                                   python                      
+pixelflux                                                                     1.5.2                                   python                      
 platformdirs                                                                  4.2.2                                   python                      
 poppler-data                                                                  0.4.12-1                                deb                         
 powershell                                                                    1.0.0                                   npm                         
