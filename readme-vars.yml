@@ -110,6 +110,7 @@ init_diagram: |
   "vscodium:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "28.12.25:", desc: "Add Wayland init logic."}
   - {date: "22.09.25:", desc: "Rebase to Debian Trixie."}
   - {date: "24.07.25:", desc: "Swap from thunar to caja for filebrowser."}
   - {date: "12.07.25:", desc: "Rebase to Selkies, HTTPS IS NOW REQUIRED."}
