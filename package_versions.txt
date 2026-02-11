@@ -35,7 +35,7 @@ NAME                                                                          VE
 @xterm/addon-webgl                                                            0.20.0-beta.108                         npm                         
 @xterm/headless                                                               6.1.0-beta.109                          npm                         
 @xterm/xterm                                                                  6.1.0-beta.109                          npm                         
-VSCodium                                                                      1.109.01000                             npm                         
+VSCodium                                                                      1.109.21026                             npm                         
 adduser                                                                       3.152                                   deb                         
 adwaita-icon-theme                                                            48.1-1                                  deb                         
 agent-base                                                                    7.1.4                                   npm                         
@@ -94,7 +94,7 @@ cloud.google.com/go/longrunning                                               v0
 cmake                                                                         3.31.6-2                                deb                         
 cmake-data                                                                    3.31.6-2                                deb                         
 code.cloudfoundry.org/clock                                                   v1.59.0                                 go-module                   
-codium                                                                        1.109.01000                             deb                         
+codium                                                                        1.109.21026                             deb                         
 coffeescript                                                                  1.0.0                                   npm                         
 commander                                                                     12.1.0                                  npm                         
 commander                                                                     2.11.0                                  npm                         
