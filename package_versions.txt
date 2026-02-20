@@ -35,7 +35,7 @@ NAME                                                                          VE
 @xterm/addon-webgl                                                            0.20.0-beta.108                         npm                         
 @xterm/headless                                                               6.1.0-beta.109                          npm                         
 @xterm/xterm                                                                  6.1.0-beta.109                          npm                         
-VSCodium                                                                      1.109.41146                             npm                         
+VSCodium                                                                      1.109.51242                             npm                         
 adduser                                                                       3.152                                   deb                         
 adwaita-icon-theme                                                            48.1-1                                  deb                         
 agent-base                                                                    7.1.4                                   npm                         
@@ -78,9 +78,9 @@ catatonit                                                                     0.
 cffi                                                                          2.0.0                                   python                      
 chownr                                                                        3.0.0                                   npm                         
 chrome-remote-interface                                                       0.33.0                                  npm                         
-chromium                                                                      145.0.7632.75-1~deb13u1                 deb                         
-chromium-common                                                               145.0.7632.75-1~deb13u1                 deb                         
-chromium-l10n                                                                 145.0.7632.75-1~deb13u1                 deb                         
+chromium                                                                      145.0.7632.109-1~deb13u3                deb                         
+chromium-common                                                               145.0.7632.109-1~deb13u3                deb                         
+chromium-l10n                                                                 145.0.7632.109-1~deb13u3                deb                         
 cli                                                                           UNKNOWN                                 binary                      
 cli-32                                                                        UNKNOWN                                 binary                      
 cli-64                                                                        UNKNOWN                                 binary                      
@@ -94,7 +94,7 @@ cloud.google.com/go/longrunning                                               v0
 cmake                                                                         3.31.6-2                                deb                         
 cmake-data                                                                    3.31.6-2                                deb                         
 code.cloudfoundry.org/clock                                                   v1.59.0                                 go-module                   
-codium                                                                        1.109.41146                             deb                         
+codium                                                                        1.109.51242                             deb                         
 coffeescript                                                                  1.0.0                                   npm                         
 commander                                                                     12.1.0                                  npm                         
 commander                                                                     2.11.0                                  npm                         
