@@ -2,6 +2,12 @@
 
 BIN=/usr/share/codium/bin/codium
 
+# Wayland check
+if pgrep labwc > /dev/null 2>&1; then
+  WAYLAND="--ozone-platform=wayland"
+fi
+
 dbus-launch ${BIN} \
   --no-sandbox \
+  ${WAYLAND} \
    "$@"
