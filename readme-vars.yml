@@ -110,6 +110,7 @@ init_diagram: |
   "vscodium:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "04.04.26:", desc: "Make Wayland default disable with PIXELFLUX_WAYLAND=false."}
   - {date: "21.03.26:", desc: "Use Wayland ozone platform fixes scaling and acceleration."}
   - {date: "28.12.25:", desc: "Add Wayland init logic."}
   - {date: "22.09.25:", desc: "Rebase to Debian Trixie."}
