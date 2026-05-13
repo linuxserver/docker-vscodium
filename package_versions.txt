@@ -93,9 +93,9 @@ catatonit                                                                     0.
 cffi                                                                          2.0.0                                  python                      
 chownr                                                                        3.0.0                                  npm                         
 chrome-remote-interface                                                       0.33.0                                 npm                         
-chromium                                                                      147.0.7727.137-1~deb13u1               deb                         
-chromium-common                                                               147.0.7727.137-1~deb13u1               deb                         
-chromium-l10n                                                                 147.0.7727.137-1~deb13u1               deb                         
+chromium                                                                      148.0.7778.96-1~deb13u1                deb                         
+chromium-common                                                               148.0.7778.96-1~deb13u1                deb                         
+chromium-l10n                                                                 148.0.7778.96-1~deb13u1                deb                         
 cli                                                                           UNKNOWN                                binary                      
 cli-32                                                                        UNKNOWN                                binary                      
 cli-64                                                                        UNKNOWN                                binary                      
@@ -125,7 +125,7 @@ cpp-14-x86-64-linux-gnu                                                       14
 cpp-x86-64-linux-gnu                                                          4:14.2.0-1                             deb                         
 cron                                                                          3.0pl1-197                             deb                         
 cron-daemon-common                                                            3.0pl1-197                             deb                         
-cryptography                                                                  47.0.0                                 python                      
+cryptography                                                                  48.0.0                                 python                      
 csharp                                                                        10.0.0                                 npm                         
 css                                                                           10.0.0                                 npm                         
 css-language-features                                                         10.0.0                                 npm                         
@@ -167,8 +167,8 @@ dmsetup                                                                       2:
 dnspython                                                                     2.8.0                                  python                      
 docker                                                                        10.0.0                                 npm                         
 docker-buildx-plugin                                                          0.33.0-1~debian.13~trixie              deb                         
-docker-ce                                                                     5:29.4.2-2~debian.13~trixie            deb                         
-docker-ce-cli                                                                 5:29.4.2-2~debian.13~trixie            deb                         
+docker-ce                                                                     5:29.4.3-1~debian.13~trixie            deb                         
+docker-ce-cli                                                                 5:29.4.3-1~debian.13~trixie            deb                         
 docker-compose-plugin                                                         5.1.3-1~debian.13~trixie               deb                         
 dotenv                                                                        10.0.0                                 npm                         
 dpkg                                                                          1.22.22                                deb                         
@@ -486,11 +486,11 @@ github.com/moby/moby/api                                                      v1
 github.com/moby/moby/api                                                      v1.54.2                                go-module                   
 github.com/moby/moby/client                                                   v0.3.0                                 go-module                   
 github.com/moby/moby/client                                                   v0.4.0                                 go-module                   
-github.com/moby/moby/v2                                                       v29.4.2                                go-module  (+1 duplicate)   
+github.com/moby/moby/v2                                                       v29.4.3                                go-module  (+1 duplicate)   
 github.com/moby/patternmatcher                                                v0.6.1                                 go-module  (+2 duplicates)  
 github.com/moby/policy-helpers                                                v0.0.0-20260324161837-b7c0b994300b     go-module  (+1 duplicate)   
-github.com/moby/profiles/apparmor                                             v0.1.0                                 go-module                   
-github.com/moby/profiles/seccomp                                              v0.2.2                                 go-module                   
+github.com/moby/profiles/apparmor                                             v0.2.1                                 go-module                   
+github.com/moby/profiles/seccomp                                              v0.2.3                                 go-module                   
 github.com/moby/pubsub                                                        v1.0.0                                 go-module                   
 github.com/moby/spdystream                                                    v0.5.0                                 go-module                   
 github.com/moby/spdystream                                                    v0.5.1                                 go-module                   
@@ -757,7 +757,7 @@ html                                                                          10
 html-language-features                                                        10.0.0                                 npm                         
 http-proxy-agent                                                              7.0.2                                  npm                         
 https-proxy-agent                                                             7.0.6                                  npm                         
-idna                                                                          3.13                                   python                      
+idna                                                                          3.14                                   python                      
 ieee754                                                                       1.2.1                                  npm                         
 ifaddr                                                                        0.2.0                                  python                      
 importlib-metadata                                                            8.7.1                                  python                      
@@ -1011,7 +1011,7 @@ libkrb5-3                                                                     1.
 libkrb5support0                                                               1.21.3-5                               deb                         
 libksba8                                                                      1.6.7-2+b1                             deb                         
 liblastlog2-2                                                                 2.41-5                                 deb                         
-liblcms2-2                                                                    2.16-2                                 deb                         
+liblcms2-2                                                                    2.16-2+deb13u2                         deb                         
 libldap-common                                                                2.6.10+dfsg-1                          deb                         
 libldap2                                                                      2.6.10+dfsg-1                          deb                         
 liblerc4                                                                      4.0.0+ds-5                             deb                         
@@ -1084,7 +1084,7 @@ libpcre2-8-0                                                                  10
 libperl5.40                                                                   5.40.1-6                               deb                         
 libpipeline1                                                                  1.5.8-1                                deb                         
 libpixman-1-0                                                                 0.44.0-3                               deb                         
-libpng16-16t64                                                                1.6.48-1+deb13u4                       deb                         
+libpng16-16t64                                                                1.6.48-1+deb13u5                       deb                         
 libpolkit-agent-1-0                                                           126-2                                  deb                         
 libpolkit-gobject-1-0                                                         126-2                                  deb                         
 libproc2-0                                                                    2:4.0.4-9                              deb                         
@@ -1253,7 +1253,7 @@ libz3-4                                                                       4.
 libzstd1                                                                      1.5.7+dfsg-1                           deb                         
 libzvbi-common                                                                0.2.44-1                               deb                         
 libzvbi0t64                                                                   0.2.44-1                               deb                         
-linux-libc-dev                                                                6.12.85-1                              deb                         
+linux-libc-dev                                                                6.12.86-1                              deb                         
 linux-sysctl-defaults                                                         4.12.1                                 deb                         
 locales                                                                       2.41-12+deb13u2                        deb                         
 locales-all                                                                   2.41-12+deb13u2                        deb                         
@@ -1342,7 +1342,7 @@ pillow                                                                        12
 pinentry-curses                                                               1.3.1-2                                deb                         
 pinentry-gnome3                                                               1.3.1-2                                deb                         
 pip                                                                           25.1.1                                 python                      
-pixelflux                                                                     1.6.2                                  python                      
+pixelflux                                                                     1.6.3                                  python                      
 platformdirs                                                                  4.4.0                                  python                      
 playwright-core                                                               1.59.1                                 npm                         
 poppler-data                                                                  0.4.12-1                               deb                         
@@ -1350,7 +1350,7 @@ powershell                                                                    10
 procps                                                                        2:4.0.4-9                              deb                         
 prometheus-client                                                             0.25.0                                 python                      
 prompt                                                                        10.0.0                                 npm                         
-propcache                                                                     0.4.1                                  python                      
+propcache                                                                     0.5.2                                  python                      
 proxy-from-env                                                                1.1.0                                  npm                         
 proxy-from-env                                                                2.1.0                                  npm                         
 psmisc                                                                        23.7-2                                 deb                         
@@ -1364,7 +1364,7 @@ pycparser                                                                     3.
 pyee                                                                          13.0.1                                 python                      
 pylibsrtp                                                                     1.0.0                                  python                      
 pynput                                                                        1.8.1                                  python                      
-pyopenssl                                                                     26.1.0                                 python                      
+pyopenssl                                                                     26.2.0                                 python                      
 python                                                                        10.0.0                                 npm                         
 python-xlib                                                                   0.33                                   python                      
 python3                                                                       3.13.5-1                               deb                         
