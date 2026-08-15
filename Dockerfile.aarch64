@@ -32,7 +32,7 @@ RUN \
   echo "**** install codium ****" && \
   if [ -z ${CODIUM_VERSION+x} ]; then \
     CODIUM_VERSION=$(curl -sX GET "https://api.github.com/repos/VSCodium/vscodium/releases/latest" \
-    | awk '/tag_name/{print $4;exit}' FS='[""]'); \
+    | jq -r '.tag_name'); \
   fi && \
   curl -o \
     /tmp/codium.deb -L \
