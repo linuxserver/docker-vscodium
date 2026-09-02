@@ -102,14 +102,14 @@ certifi                                                                       20
 cffi                                                                          2.1.1                                   python                      
 chownr                                                                        3.0.0                                   npm                         
 chrome-remote-interface                                                       0.33.0                                  npm                         
-chromium                                                                      151.0.7922.137-1~deb13u1                deb                         
-chromium-common                                                               151.0.7922.137-1~deb13u1                deb                         
-chromium-l10n                                                                 151.0.7922.137-1~deb13u1                deb                         
+chromium                                                                      151.0.7922.173-1~deb13u1                deb                         
+chromium-common                                                               151.0.7922.173-1~deb13u1                deb                         
+chromium-l10n                                                                 151.0.7922.173-1~deb13u1                deb                         
 cli                                                                           UNKNOWN                                 binary                      
 cli-32                                                                        UNKNOWN                                 binary                      
 cli-64                                                                        UNKNOWN                                 binary                      
 cli-arm64                                                                     UNKNOWN                                 binary                      
-click                                                                         8.4.2                                   python                      
+click                                                                         8.5.0                                   python                      
 clojure                                                                       10.0.0                                  npm                         
 cloud.google.com/go/auth                                                      v0.20.0                                 go-module                   
 cloud.google.com/go/auth/oauth2adapt                                          v0.2.8                                  go-module                   
@@ -127,7 +127,7 @@ commander                                                                     2.
 commander                                                                     8.3.0                                   npm                         
 configuration-editing                                                         10.0.0                                  npm                         
 console-data                                                                  2:1.12-9                                deb                         
-containerd.io                                                                 2.3.3-1~debian.13~trixie                deb                         
+containerd.io                                                                 2.3.4-1~debian.13~trixie                deb                         
 coreutils                                                                     9.7-3                                   deb                         
 cpp                                                                           10.0.0                                  npm                         
 cpp                                                                           4:14.2.0-1                              deb                         
@@ -136,7 +136,7 @@ cpp-14-x86-64-linux-gnu                                                       14
 cpp-x86-64-linux-gnu                                                          4:14.2.0-1                              deb                         
 cron                                                                          3.0pl1-197                              deb                         
 cron-daemon-common                                                            3.0pl1-197                              deb                         
-cryptography                                                                  50.0.0                                  python                      
+cryptography                                                                  50.0.1                                  python                      
 csharp                                                                        10.0.0                                  npm                         
 css                                                                           10.0.0                                  npm                         
 css-language-features                                                         10.0.0                                  npm                         
@@ -180,7 +180,7 @@ docker                                                                        10
 docker-buildx-plugin                                                          0.36.1-1~debian.13~trixie               deb                         
 docker-ce                                                                     5:29.7.2-1~debian.13~trixie             deb                         
 docker-ce-cli                                                                 5:29.7.2-1~debian.13~trixie             deb                         
-docker-compose-plugin                                                         5.4.0-1~debian.13~trixie                deb                         
+docker-compose-plugin                                                         5.5.0-1~debian.13~trixie                deb                         
 dotenv                                                                        10.0.0                                  npm                         
 dpkg                                                                          1.22.22                                 deb                         
 dunder-proto                                                                  1.0.1                                   npm                         
@@ -194,7 +194,7 @@ es-set-tostringtag                                                            2.
 es6-iterator                                                                  2.0.3                                   npm                         
 es6-symbol                                                                    3.1.3                                   npm                         
 esniff                                                                        2.0.1                                   npm                         
-evdev                                                                         1.9.3                                   python                      
+evdev                                                                         2.0.0                                   python                      
 event-emitter                                                                 0.3.5                                   npm                         
 exim4-base                                                                    4.98.2-1+deb13u4                        deb                         
 exim4-config                                                                  4.98.2-1+deb13u4                        deb                         
@@ -310,7 +310,8 @@ github.com/containerd/btrfs/v2                                                v2
 github.com/containerd/cgroups/v3                                              v3.1.3                                  go-module  (+3 duplicates)  
 github.com/containerd/console                                                 v1.0.5                                  go-module  (+6 duplicates)  
 github.com/containerd/containerd/api                                          v1.11.1                                 go-module  (+5 duplicates)  
-github.com/containerd/containerd/v2                                           v2.3.3                                  go-module  (+5 duplicates)  
+github.com/containerd/containerd/v2                                           v2.3.3                                  go-module  (+2 duplicates)  
+github.com/containerd/containerd/v2                                           v2.3.4                                  go-module  (+2 duplicates)  
 github.com/containerd/continuity                                              v0.5.0                                  go-module  (+5 duplicates)  
 github.com/containerd/errdefs                                                 v1.0.0                                  go-module  (+5 duplicates)  
 github.com/containerd/errdefs/pkg                                             v0.3.0                                  go-module  (+5 duplicates)  
@@ -344,12 +345,12 @@ github.com/digitorus/pkcs7                                                    v0
 github.com/digitorus/timestamp                                                v0.0.0-20231217203849-220c5c2851b7      go-module  (+2 duplicates)  
 github.com/dimchansky/utfbom                                                  v1.1.1                                  go-module                   
 github.com/distribution/reference                                             v0.6.0                                  go-module  (+4 duplicates)  
-github.com/docker/buildx                                                      v0.36.0                                 go-module                   
-github.com/docker/buildx                                                      v0.36.1                                 go-module                   
-github.com/docker/cli                                                         v29.6.2+incompatible                    go-module  (+1 duplicate)   
+github.com/docker/buildx                                                      v0.36.1                                 go-module  (+1 duplicate)   
+github.com/docker/cli                                                         v29.6.2+incompatible                    go-module                   
+github.com/docker/cli                                                         v29.7.2+incompatible                    go-module                   
 github.com/docker/cli-docs-tool                                               v0.11.0                                 go-module  (+1 duplicate)   
 github.com/docker/cli/cmd/docker                                              UNKNOWN                                 go-module                   
-github.com/docker/compose/v5                                                  v5.4.0                                  go-module                   
+github.com/docker/compose/v5                                                  v5.5.0                                  go-module                   
 github.com/docker/distribution                                                v2.8.3+incompatible                     go-module                   
 github.com/docker/docker                                                      v28.5.2+incompatible                    go-module  (+1 duplicate)   
 github.com/docker/docker-credential-helpers                                   v0.9.8                                  go-module  (+1 duplicate)   
@@ -474,16 +475,15 @@ github.com/mitchellh/copystructure                                            v1
 github.com/mitchellh/go-wordwrap                                              v1.0.1                                  go-module                   
 github.com/mitchellh/hashstructure/v2                                         v2.0.2                                  go-module  (+1 duplicate)   
 github.com/mitchellh/reflectwalk                                              v1.0.2                                  go-module                   
-github.com/moby/buildkit                                                      v0.32.1                                 go-module                   
-github.com/moby/buildkit                                                      v0.32.2                                 go-module  (+1 duplicate)   
+github.com/moby/buildkit                                                      v0.32.2                                 go-module  (+2 duplicates)  
 github.com/moby/docker-image-spec                                             v1.3.1                                  go-module  (+2 duplicates)  
 github.com/moby/go-archive                                                    v0.2.1                                  go-module                   
-github.com/moby/go-archive                                                    v0.3.2                                  go-module                   
-github.com/moby/go-archive                                                    v0.3.3                                  go-module                   
+github.com/moby/go-archive                                                    v0.3.3                                  go-module  (+1 duplicate)   
 github.com/moby/ipvs                                                          v1.1.0                                  go-module                   
 github.com/moby/locker                                                        v1.0.1                                  go-module  (+4 duplicates)  
 github.com/moby/moby/api                                                      v1.55.0                                 go-module  (+2 duplicates)  
-github.com/moby/moby/client                                                   v0.5.0                                  go-module  (+1 duplicate)   
+github.com/moby/moby/client                                                   v0.5.0                                  go-module                   
+github.com/moby/moby/client                                                   v0.5.1                                  go-module                   
 github.com/moby/moby/v2                                                       v29.7.2                                 go-module  (+1 duplicate)   
 github.com/moby/patternmatcher                                                v0.6.1                                  go-module  (+2 duplicates)  
 github.com/moby/policy-helpers                                                v0.0.0-20260722051018-856be88baec4      go-module  (+2 duplicates)  
@@ -673,7 +673,8 @@ google.golang.org/genproto/googleapis/rpc                                     v0
 google.golang.org/genproto/googleapis/rpc                                     v0.0.0-20260526163538-3dc84a4a5aaa      go-module  (+1 duplicate)   
 google.golang.org/genproto/googleapis/rpc                                     v0.0.0-20260630182238-925bb5da69e7      go-module                   
 google.golang.org/grpc                                                        v1.80.0                                 go-module  (+2 duplicates)  
-google.golang.org/grpc                                                        v1.82.1                                 go-module  (+2 duplicates)  
+google.golang.org/grpc                                                        v1.82.1                                 go-module  (+1 duplicate)   
+google.golang.org/grpc                                                        v1.83.0                                 go-module                   
 google.golang.org/protobuf                                                    v1.36.12-0.20260120151049-f2248ac996af  go-module  (+5 duplicates)  
 google.golang.org/protobuf                                                    v1.36.8                                 go-module                   
 gopd                                                                          1.2.0                                   npm                         
@@ -721,7 +722,7 @@ https-proxy-agent                                                             7.
 httptools                                                                     0.8.0                                   python                      
 httpx                                                                         0.28.1                                  python                      
 i965-va-driver-shaders                                                        2.4.1-2                                 deb                         
-idna                                                                          3.18                                    python                      
+idna                                                                          3.19                                    python                      
 ieee754                                                                       1.2.1                                   npm                         
 ifaddr                                                                        0.2.0                                   python                      
 importlib-metadata                                                            8.7.1                                   python                      
@@ -757,13 +758,16 @@ json-language-features                                                        10
 jsonfile                                                                      6.1.0                                   npm                         
 julia                                                                         10.0.0                                  npm                         
 k8s.io/api                                                                    v0.36.0                                 go-module                   
-k8s.io/apimachinery                                                           v0.36.0                                 go-module  (+3 duplicates)  
-k8s.io/client-go                                                              v0.36.0                                 go-module  (+1 duplicate)   
-k8s.io/cri-api                                                                v0.36.0                                 go-module                   
-k8s.io/cri-streaming                                                          v0.36.0                                 go-module                   
+k8s.io/apimachinery                                                           v0.36.0                                 go-module  (+1 duplicate)   
+k8s.io/apimachinery                                                           v0.36.3                                 go-module  (+1 duplicate)   
+k8s.io/client-go                                                              v0.36.0                                 go-module                   
+k8s.io/client-go                                                              v0.36.3                                 go-module                   
+k8s.io/cri-api                                                                v0.36.3                                 go-module                   
+k8s.io/cri-streaming                                                          v0.36.3                                 go-module                   
 k8s.io/klog/v2                                                                v2.140.0                                go-module  (+3 duplicates)  
 k8s.io/kube-openapi                                                           v0.0.0-20260319004828-5883c5ee87b9      go-module                   
-k8s.io/streaming                                                              v0.36.0                                 go-module  (+1 duplicate)   
+k8s.io/streaming                                                              v0.36.0                                 go-module                   
+k8s.io/streaming                                                              v0.36.3                                 go-module                   
 k8s.io/utils                                                                  v0.0.0-20260319190234-28399d86e0b5      go-module  (+1 duplicate)   
 katex                                                                         0.16.22                                 npm                         
 kbd                                                                           2.7.1-2                                 deb                         
@@ -871,7 +875,7 @@ libevdev2                                                                     1.
 libevent-2.1-7t64                                                             2.1.12-stable-10+b1                     deb                         
 libexempi8                                                                    2.6.6-2                                 deb                         
 libexif12                                                                     0.6.25-1+deb13u1                        deb                         
-libexpat1                                                                     2.8.2-1~deb13u1                         deb                         
+libexpat1                                                                     2.8.3-1~deb13u1                         deb                         
 libext2fs2t64                                                                 1.47.2-3+b11                            deb                         
 libfcft4t64                                                                   3.3.1-1                                 deb                         
 libfdisk1                                                                     2.41.5-0+deb13u1                        deb                         
@@ -1088,7 +1092,7 @@ libspeex1                                                                     1.
 libspeexdsp1                                                                  1.2.1-3                                 deb                         
 libsqlite3-0                                                                  3.46.1-7+deb13u1                        deb                         
 libssh2-1t64                                                                  1.11.1-1+deb13u1                        deb                         
-libssl3t64                                                                    3.5.6-1~deb13u2                         deb                         
+libssl3t64                                                                    3.5.7-1~deb13u2                         deb                         
 libstartup-notification0                                                      0.12-8                                  deb                         
 libstdc++-14-dev                                                              14.2.0-19                               deb                         
 libstdc++6                                                                    14.2.0-19                               deb                         
@@ -1214,7 +1218,7 @@ libz3-4                                                                       4.
 libzstd1                                                                      1.5.7+dfsg-1                            deb                         
 libzvbi-common                                                                0.2.44-1                                deb                         
 libzvbi0t64                                                                   0.2.44-1                                deb                         
-linux-libc-dev                                                                6.12.101-1                              deb                         
+linux-libc-dev                                                                6.12.105-1                              deb                         
 linux-sysctl-defaults                                                         4.12.1                                  deb                         
 locales                                                                       2.41-12+deb13u3                         deb                         
 locales-all                                                                   2.41-12+deb13u3                         deb                         
@@ -1255,7 +1259,7 @@ more-itertools                                                                10
 mount                                                                         2.41.5-0+deb13u1                        deb                         
 ms                                                                            2.0.0                                   npm                         
 ms                                                                            2.1.3                                   npm                         
-msgpack                                                                       1.2.1                                   python                      
+msgpack                                                                       1.2.2                                   python                      
 multidict                                                                     6.7.1                                   python                      
 napi-build-utils                                                              2.0.0                                   npm                         
 native-is-elevated                                                            0.9.0                                   npm                         
@@ -1278,8 +1282,8 @@ once                                                                          1.
 open                                                                          10.1.2                                  npm                         
 openbox                                                                       3.6.1-12+b2                             deb                         
 openssh-client                                                                1:10.0p1-7+deb13u4                      deb                         
-openssl                                                                       3.5.6-1~deb13u2                         deb                         
-openssl-provider-legacy                                                       3.5.6-1~deb13u2                         deb                         
+openssl                                                                       3.5.7-1~deb13u2                         deb                         
+openssl-provider-legacy                                                       3.5.7-1~deb13u2                         deb                         
 opentype.js                                                                   2.0.0                                   npm                         
 p11-kit                                                                       0.25.5-3                                deb                         
 p11-kit-modules                                                               0.25.5-3                                deb                         
@@ -1321,15 +1325,15 @@ pulseaudio                                                                    17
 pulseaudio-utils                                                              17.0+dfsg1-2+b1                         deb                         
 pulsectl                                                                      24.12.0                                 python                      
 pycparser                                                                     3.0                                     python                      
-pydantic                                                                      2.13.4                                  python                      
-pydantic-core                                                                 2.46.4                                  python                      
+pydantic                                                                      2.13.5                                  python                      
+pydantic-core                                                                 2.46.5                                  python                      
 pyee                                                                          14.0.0                                  python                      
 pygobject                                                                     3.50.0                                  python                      
 pylibsrtp                                                                     1.0.0                                   python                      
 pynput                                                                        1.8.2                                   python                      
 pyopenssl                                                                     26.4.0                                  python                      
 python                                                                        10.0.0                                  npm                         
-python-dotenv                                                                 1.2.2                                   python                      
+python-dotenv                                                                 1.2.3                                   python                      
 python-xlib                                                                   0.33                                    python                      
 python3                                                                       3.13.5-1                                deb                         
 python3-gi                                                                    3.50.0-4+b1                             deb                         
@@ -1385,9 +1389,8 @@ ssh-askpass                                                                   1:
 ssh2                                                                          1.17.0                                  npm                         
 ssl-cert                                                                      1.1.3                                   deb                         
 starlette                                                                     1.6.0                                   python                      
-stdlib                                                                        go1.26.3                                go-module  (+3 duplicates)  
-stdlib                                                                        go1.26.4                                go-module                   
-stdlib                                                                        go1.26.5                                go-module  (+3 duplicates)  
+stdlib                                                                        go1.26.5                                go-module  (+7 duplicates)  
+stdlib                                                                        go1.26.6                                go-module                   
 string_decoder                                                                1.1.1                                   npm                         
 strip-json-comments                                                           2.0.1                                   npm                         
 stterm                                                                        0.9.2-1                                 deb                         
@@ -1437,7 +1440,7 @@ util-deprecate                                                                1.
 util-linux                                                                    2.41.5-0+deb13u1                        deb                         
 uuid                                                                          14.0.0                                  npm                         
 uuid                                                                          3.4.0                                   npm                         
-uvicorn                                                                       0.52.3                                  python                      
+uvicorn                                                                       0.52.4                                  python                      
 uvloop                                                                        0.22.1                                  python                      
 vainfo                                                                        2.22.0+ds1-2                            deb                         
 vb                                                                            10.0.0                                  npm                         
@@ -1455,7 +1458,7 @@ vulkan-tools                                                                  1.
 watchdog                                                                      6.0.0                                   python                      
 watchfiles                                                                    1.2.0                                   python                      
 websocket                                                                     1.0.35                                  npm                         
-websockets                                                                    17.0.1                                  python                      
+websockets                                                                    17.1                                    python                      
 wheel                                                                         0.46.3                                  python                      
 windows-foreground-love                                                       0.6.1                                   npm                         
 wl-clipboard                                                                  2.2.1-2                                 deb                         
